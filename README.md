@@ -8,12 +8,12 @@ Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısac
 Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak olacak desem çok sade bir cevap olur sanırım. Ben bir kaç madde ile olacaklardan bahsedeyim.
 
 1. 🏫 Udemy eğitimlerini çekiliş ile veren veya direk olarak ücretsiz olarak yayınlayan instagram hesapları ve telegram grupları. (Ben bu sayede 570 den fazla eğitime ücretsiz sahip oldum.)
-2. Her yazılımcının katılması gereken discord ve telegram grupları.
-3. Tarayıcıda bulunan bookmark(yer imi, yer işaretleri). (Bunun içinde bir bir türlü site. Html,Css,Javascript,Php ile ilgili topladığım tüm siteleri paylaşacağım)
-4. Yaptığınız projeleri demo link olarak paylaşabileceğiniz siteler.
-5. Her yazılımcının takip etmesi gerektiği siteler.
-6. Üniversite öğrencileri için ücretsiz olan kaynaklar.
-7. Tarayıcıda kullandığım eklentiler.
-8. Para kazanabileceğiniz freelance siteler.
-9. Mentör desteği alabileceğiniz ücretli **ücretsiz** siteler gruplar.
-10. Daha daha birçok şey var... 🤩🤩
+2. 👨‍👧‍👦 Her yazılımcının katılması gereken discord ve telegram grupları.
+3. 🔖 Tarayıcıda bulunan bookmark(yer imi, yer işaretleri). (Bunun içinde bir bir türlü site. Html,Css,Javascript,Php ile ilgili topladığım tüm siteleri paylaşacağım)
+4. #️⃣ Yaptığınız projeleri demo link olarak paylaşabileceğiniz siteler.
+5. #️⃣ Her yazılımcının takip etmesi gerektiği siteler.
+6. 🎓 Üniversite öğrencileri için ücretsiz olan kaynaklar.
+7. #️⃣Tarayıcıda kullandığım eklentiler.
+8. 🤑 Para kazanabileceğiniz freelance siteler.
+9. 🧔 Mentör desteği alabileceğiniz ücretli **ücretsiz** siteler gruplar.
+10. 🤩🤩 Daha daha birçok şey var... 🤩🤩
