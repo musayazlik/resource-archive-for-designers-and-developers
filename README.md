@@ -15,5 +15,6 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 6. 🎓 Üniversite öğrencileri için ücretsiz olan kaynaklar.
 7. #️⃣Tarayıcıda kullandığım eklentiler.
 8. 🤑 Para kazanabileceğiniz freelance siteler.
-9. 🧔 Mentör desteği alabileceğiniz ücretli **ücretsiz** siteler gruplar.
-10. 🤩🤩 Daha daha birçok şey var... 🤩🤩
+9. ▶️ Takip ettiğim Youtube kanalları.
+10. 🧔 Mentör desteği alabileceğiniz ücretli **ücretsiz** siteler gruplar.
+11. 🤩🤩 Daha daha birçok şey var... 🤩🤩
