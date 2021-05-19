@@ -23,7 +23,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## Takip Ettiğim İnstagram Hesapları
+## 📸 Takip Ettiğim İnstagram Hesapları
 Ücretsiz udemy eğitimlerine bu tür hesapları takip ederek sahip oluyorum. Çekilişlere katılmıyorum sadece hikayeleride ücretsiz bir kurs paylaştıklarında hemen kapıyorum. Tabi sadece udemy kursu kapmak için takip etmiyorum. Bu takip ettiğim hesaplar web tasarım,web yazılım veya girişimcilik ile ilgili paylaşımlar yapıyorlar onlar hoşuma gidiyor. Normalde ben artık instagram hesabını artık aktif bir şekilde kullanmıyorum ama isterseniz [buraya](https://www.instagram.com/musa_yazlik/) tıklayarak beni takip edebilirsiniz.😁
 
 1. [workshoperscomm](https://www.instagram.com/workshoperscomm/) : Bolca ücretsiz ve sertifikalı online eğitim veren bir kuruluş. 
