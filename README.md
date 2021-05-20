@@ -23,7 +23,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## 📸 Takip Ettiğim İnstagram Hesapları
+## ![](image/instagram.png) ~~ Takip Ettiğim İnstagram Hesapları ~~ ![](image/instagram.png)
 Ücretsiz udemy eğitimlerine takip ettiğim instagram hesaplarından ve üye olduğum telegram gruplarından elde ediyorum. Takip ettiğim instagram hesaplarının çekilişlerine katılmıyorum sadece hikayelerinde ücretsiz bir kurs paylaştıklarında hemen kapıyorum.😅 Tabi sadece udemy kursu kapmak için takip etmiyorum. Bu takip ettiğim hesaplar web tasarım,web yazılım veya girişimcilik ile ilgili paylaşımlarda yapıyorlar. Onlarda hoşuma gidiyor. Normalde artık instagram hesabımı aktif bir şekilde kullanmıyorum ama isterseniz [buraya](https://www.instagram.com/musa_yazlik/) tıklayarak beni takip edebilirsiniz.😁
 
 1. [workshoperscomm](https://www.instagram.com/workshoperscomm/) : Bolca ücretsiz ve sertifikalı online eğitim veren bir kuruluş. 
@@ -48,4 +48,8 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 20. [kodrehberi](https://www.instagram.com/kodrehberi/) : Yazılım ile ilgili komik,bilgi ve motivasyon içerikleri paylaşan bir hesap.
 21. [gencyazilimci](https://www.instagram.com/gencyazilimci/) : Yazılım ile ilgili komik içerikler paylaşan bir hesap.
 22. [yazilimci.adamm](https://www.instagram.com/yazilimci.adamm/) : Yazılım ile ilgili komik,bilgi,motivasyon ve gündem içerikleri paylaşan bir hesap.
+
+<br>
+
+## ![](image/telegram.png) ~~ Üye Olduğum Telegram Grupları ~~ ![](image/telegram.png)
 
