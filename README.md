@@ -53,3 +53,31 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 ## ![](image/telegram.png) ~~ Üye Olduğum Telegram Grupları ~~ ![](image/telegram.png)
 
+1. [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
+2. kablosuzkedi
+3. [YazılımTürk 🇹🇷](https://t.me/yazilimturkiye)
+4. [Yazılım Eğitim](https://t.me/yazilimegitimlaravel)
+5. [./prototurk](https://t.me/prototurk)
+6. [Laravel İstanbul](https://t.me/laravelistanbul)
+7. [Sadık Turan](https://t.me/sadikturancom)
+8. [Geleceğini Tasarlayanlar](https://t.me/geleceginitasarlayanlar)
+9. [FULL STACK DEVELOPERS](https://t.me/fullstackdevelopersa)
+10. [Kod Rehberi](https://t.me/kodrehberi)
+11. [ReactJS Turkey](https://t.me/turkeyreactjs)
+12. [Yazılım İş İlanları](https://t.me/yazilimisilanlarigrubu)
+13. Vue.js & Nuxt.js
+14. [Yazılımcı Gençlik](https://t.me/yazilimcigenclik)
+15. [#herkesicinudemy](https://t.me/herkesicinudemy)
+16. Codemvia Frontend Devs
+17. [Donanım & Bilgisayar Sorunları](https://t.me/k_donanimyardimlasma)
+18. Askıda Eğitim 📚
+19. [İLETİŞİM - SEYYAR TASARIMCI ⭐️](https://t.me/seyyariletisim)
+20. [Yazılım Yardımlaşma](https://t.me/k_yazilimyardim)
+21. [KEROKOD KÜTÜPHANE 📚](https://t.me/kerokodcom)
+22. [Codem<ia Topluluğu](https://t.me/codemvia)
+23. [Tasarım Yardımlaşma](https://t.me/k_tasarimyardimlasma)
+24. [Seo Yardımlaşma](https://t.me/k_seoyardimlasma)
+25. Hayallerini Kodlayanlar - mstfkrtll
+26. [KodRehberi Kaynak](https://t.me/kodrehberi_kaynak)
+27. [Türkçe Kaynaklar Kanalı](https://t.me/trkaynak)
+
