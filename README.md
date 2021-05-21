@@ -6,7 +6,7 @@ Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısac
 
 <br>
 
-### Bu depoda ne gibi şeyler olacak?
+#### Bu depoda ne gibi şeyler olacak?
 Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak olacak desem çok sade bir cevap olur sanırım. Ben bir kaç madde ile olacaklardan bahsedeyim.
 
 1. 🏫 Udemy eğitimlerini çekiliş ile veren veya direk olarak ücretsiz olarak yayınlayan instagram hesapları ve telegram grupları. (Ben bu sayede 570 den fazla eğitime ücretsiz sahip oldum.)
@@ -23,7 +23,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-### ![](image/instagram.svg) ~~ Takip Ettiğim İnstagram Hesapları ~~ ![](image/instagram.svg)
+#### ![](image/instagram.svg)  Takip Ettiğim İnstagram Hesapları  ![](image/instagram.svg)
 Ücretsiz udemy eğitimlerine takip ettiğim instagram hesaplarından ve üye olduğum telegram gruplarından elde ediyorum. Takip ettiğim instagram hesaplarının çekilişlerine katılmıyorum sadece hikayelerinde ücretsiz bir kurs paylaştıklarında hemen kapıyorum.😅 Tabi sadece udemy kursu kapmak için takip etmiyorum. Bu takip ettiğim hesaplar web tasarım,web yazılım veya girişimcilik ile ilgili paylaşımlarda yapıyorlar. Onlarda hoşuma gidiyor. Normalde artık instagram hesabımı aktif bir şekilde kullanmıyorum ama isterseniz [buraya](https://www.instagram.com/musa_yazlik/) tıklayarak beni takip edebilirsiniz.😁
 
 1. [workshoperscomm](https://www.instagram.com/workshoperscomm/) : Bolca ücretsiz ve sertifikalı online eğitim veren bir kuruluş. 
@@ -51,7 +51,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-### ![](image/telegram.svg) ~~ Üye Olduğum Telegram Grupları ~~ ![](image/telegram.svg)
+#### ![](image/telegram.svg)  Üye Olduğum Telegram Grupları  ![](image/telegram.svg)
 
 1. [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
 2. kablosuzkedi
@@ -83,7 +83,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-### ![](image/youtube.svg) ~~ Abone Olduğum Youtube Kanalları ~~ ![](image/youtube.svg)
+#### ![](image/youtube.svg)  Abone Olduğum Youtube Kanalları  ![](image/youtube.svg)
 1. [Abdullah Zübeyir Yıldız](https://www.youtube.com/channel/UCvFLUyaAeagGWj_1eEkoOmA)
 2. [Academind ](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)
 3. [ACM HACETTEPE](https://www.youtube.com/user/HacettepeAcm)
