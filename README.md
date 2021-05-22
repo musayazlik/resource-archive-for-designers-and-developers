@@ -318,7 +318,7 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 ### ![](image/social.svg) Social Klasörü
 
 1. [Reddit](https://www.reddit.com/) : İngilizce bir site. Sorularımı genel anlamda bu sitede paylaşıyorum. İnanın ki türkçe sitelere göre daha net ve hızlı yanıtlar alıyorum.
-2. [Instagram](https://www.instagram.com/)
+2. [stackoverflow](https://stackoverflow.com/) : Bilgisayar programcılığı ile ilgili kullanıcı odaklı soru cevap sitesi.
 3. [Kommunity](https://kommunity.com/) : Etkinliklere katılmak istiyorsunuz ama bulamıyorm musunuz? Aha tam yeri.
 4. [Laravel Türkiye Forumları](https://laravel.gen.tr/) : Laravel Framework u için kurulmuş bir yardımlaşma sitesi.
 5. [Wordpress Development](https://wordpress.stackexchange.com/) : Wordpress geliştiricilerin yardımlaşma yeri. 
@@ -327,5 +327,6 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 8. [R10](https://www.r10.net/) : Herkesin üye olması gerektiği bir site. Ama tabi üyelikler davet kodu ile mümkün.
 9. [Atom Discuss](https://discuss.atom.io/) : Atom kod editörü için bir yardımlaşma sitesi. 
 10. [Meetup](https://www.meetup.com/) : Gerçek hayattaki grup buluşmalarını kolaylaştıran bir sosyal ağ.
+11. [Dev.to](https://dev.to/) : Geliştiricilerin blog yazılarını paylaştığı medium gibi bir blog sitesi. Çok güzel bir site bağımlı oldum siteye. 😁
 
 
