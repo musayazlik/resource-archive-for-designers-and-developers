@@ -51,7 +51,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## ![](image/telegram.svg)  Üye Olduğum Telegram Grupları
+## ![](image/telegram.svg) Üye Olduğum Telegram Grupları
 
 1. [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
 2. kablosuzkedi
@@ -312,5 +312,20 @@ Güzel bir bölüme geldik. Siz yapıyor musunuz bilmiyorum ama ben her hafta 1 
 223. [Zamansız Eğitimler](https://www.youtube.com/channel/UCDSvN-wCyNjMstH2N4fmROg)
 224. [Zekeriya Mulbay](https://www.youtube.com/channel/UCmEDwMLflTreYddUMQTdy-A)
 
+## Bookmarks (Yer İşaretleri)
+Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken bazı siteler oluyordu. Herkesin yaptığı gibi bende tarayıcının yer işaretleri (yer imleri) kısmına kayıt ederim. Son günlerde yer imleri klasörler halinde düzenledim. Ama klasörler içerisine atmış olduğum siteleri pekte düzenlediğimi söyleyemem. Burada ise yer imlere kaydetmiş olduğum siteleri hem sizler ile paylaşacağım hemde klasörlerin içerisini düzenlemiş olacağım. 
+
+### ![](image/social.svg) Social Klasörü
+
+1. [Reddit](https://www.reddit.com/) : İngilizce bir site. Sorularımı genel anlamda bu sitede paylaşıyorum. İnanın ki türkçe sitelere göre daha net ve hızlı yanıtlar alıyorum.
+2. [Instagram](https://www.instagram.com/)
+3. [Kommunity](https://kommunity.com/) : Etkinliklere katılmak istiyorsunuz ama bulamıyorm musunuz? Aha tam yeri.
+4. [Laravel Türkiye Forumları](https://laravel.gen.tr/) : Laravel Framework u için kurulmuş bir yardımlaşma sitesi.
+5. [Wordpress Development](https://wordpress.stackexchange.com/) : Wordpress geliştiricilerin yardımlaşma yeri. 
+6. [Kod Mühendisleri Topluluğu](https://kodmuhendisleri.com/) : Dili Türkçe olan yazılılımcıların yardımlaşma sitesi.
+7. [WMaracı](https://wmaraci.com/) : Webmaster yardımlaşma sitesi. 
+8. [R10](https://www.r10.net/) : Herkesin üye olması gerektiği bir site. Ama tabi üyelikler davet kodu ile mümkün.
+9. [Atom Discuss](https://discuss.atom.io/) : Atom kod editörü için bir yardımlaşma sitesi. 
+10. [Meetup](https://www.meetup.com/) : Gerçek hayattaki grup buluşmalarını kolaylaştıran bir sosyal ağ.
 
 
