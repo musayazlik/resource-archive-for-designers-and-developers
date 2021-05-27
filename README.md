@@ -329,4 +329,18 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 10. [Meetup](https://www.meetup.com/) : Gerçek hayattaki grup buluşmalarını kolaylaştıran bir sosyal ağ.
 11. [Dev.to](https://dev.to/) : Geliştiricilerin blog yazılarını paylaştığı medium gibi bir blog sitesi. Çok güzel bir site bağımlı oldum siteye. 😁
 
+### ![](image/document.svg) Document Klasörü
+Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,node.js ve php ile ilgili kütüphanelerin dokümantasyon sayfalarını ve dillere ait hoşuma giden siteleri tutmaya başladım. 
+
+
+1. [W3schools](https://www.w3schools.com/) : Web yazılımcıların mutlaka bir kez de olsa bakmış olduğu müthiş bir site.
+2. [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) : Bootstrap css kütüphenesinin dokümantasyon sayfası.
+3. [Wordpress Developer Reference](https://developer.wordpress.org/reference/) : Wordpress developer dokümantasyon sayfası.
+4. [Jquery](https://api.jquery.com/) : Jquery dokümantasyon sayfası.
+5. [Htmlreference](https://htmlreference.io/) : Html ile ilgili bir Reference sitesi. Bu sitenin tasarımı cok hoşuma gidiyor.
+6. [Cssreference](https://cssreference.io/) : Css ile ilgili bir Reference sitesi. Yukarıdaki sitenin aynısı
+7. [Emmet](https://docs.emmet.io/cheat-sheet/) : Kodlama yaparken emmet kullanmıyorsanız büyük işkence çekiyorsunuz demektir. Emmet kod yazmayı kolaylaştırır.
+8. [Mozilla Developer](https://developer.mozilla.org/en-US/) : Web yazılımcılar için güzel bir site.
+9. [Roadmap](https://roadmap.sh/) : Yazılım öğreniyorum ama nasıl yol izlemeliyim diye soruyor isen bu siteye mutlaka bakmalısın.
+10. [Listium](https://listium.com/@thomasdavis/16783/most-copied-libraries-on-cdnjscom) : Herkesin kendi listesini oluşturabildiği bir site ama ben birisinin en popüler js kütüphanelerinin listesini yaptığı bir liste buldum buraya eklemek istedim.
 
