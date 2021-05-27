@@ -343,4 +343,7 @@ Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,
 8. [Mozilla Developer](https://developer.mozilla.org/en-US/) : Web yazılımcılar için güzel bir site.
 9. [Roadmap](https://roadmap.sh/) : Yazılım öğreniyorum ama nasıl yol izlemeliyim diye soruyor isen bu siteye mutlaka bakmalısın.
 10. [Listium](https://listium.com/@thomasdavis/16783/most-copied-libraries-on-cdnjscom) : Herkesin kendi listesini oluşturabildiği bir site ama ben birisinin en popüler js kütüphanelerinin listesini yaptığı bir liste buldum buraya eklemek istedim.
+11. [Bulma](https://bulma.io/documentation/) : Bootstrap gibi güzel bir css kütüphanesi.
+12. [Reactjs](https://reactjs.org/docs/getting-started.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi.
+13. [Vuejs](https://v3.vuejs.org/guide/introduction.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi. React a göre öğrenilmesi daha bsittir.
 
