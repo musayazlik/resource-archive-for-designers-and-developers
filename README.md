@@ -355,5 +355,59 @@ Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yi
 3. [Htmldersleri](http://www.htmldersleri.org/index.php?getir=html_primary&ID=3) : Türkçe bir site ingilizceden anlamıyorum ben diyorsanız.
 4. [Lifeacode](https://www.lifeacode.com/html-tags/html-doctype-etiketi.html) : Bu sitede daha düzenli bir şekilde anlatıyor html etiketlerini. Ama ben youtube dan fehmi uyar kanalına bakmanızı öneririm.
 
+### ![](image/css.svg) Css Klasörü
+Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben biraz daha UI bakışlı birisiyim bu yüzden css ile ilgili çok fazla site toplamışım. Birazda onlara bakalım. Bu klasörde bolca kütüphane biliktirmişim mutlaka bilmediğiniz bir css kütüphanesi vardır.😀
+
+1. [Carbon](https://carbon.now.sh/) : Mutlaka görmüşsünüzdür süslü bir şekillde yazmış olduğu kodları paylaşırlar. İşte onu bu sitenden yapıyorlar. 😁
+2. [Animista](https://animista.net/) : Çok kullandığım bir animasyon sitesidir.
+3. [Vivify](http://vivify.mkcreative.cz/)
+4. [Bennettfeely](https://bennettfeely.com/clippy/)
+5. [Cssportal](https://www.cssportal.com/css-clip-path-generator/)
+6. [Justinaguilar](http://www.justinaguilar.com/animations/index.html)
+7. [Animate](https://animate.style/) : Çok kullanılan bir css animasyon kütüphanesi.
+8. [Csslayout](https://csslayout.io/) : Bu siteye mutlaka bakınız. Bilmediğiniz bir çok yapının ismini öğrenmiş olursunuz. 
+9. [Materializecss](https://materializecss.com/)
+10. [Malven](https://grid.malven.co/) : Css deki grip yapısı ile ilgili bilgilendirici bir site.
+11. [Autoprefixer](https://autoprefixer.github.io/) : Css de yazdığınız kodların her tarayıcıda uyumu olarak çalışabilmesi için bazı eklemeler yapmanız gerekiyor onu sizin yerinize yapan bir site. Autoprefixer bir araştırın isterseniz.
+12. [Normalize](https://necolas.github.io/normalize.css/) : Her tarayıcıda html kodların bazı default ayarlamaları vardı. Bu kütüphane onu her tarayıcıda eşit olmasını sağlıyor. 
+13. [Placeholder Loading](https://zalog.ro/placeholder-loading/)
+14. [Foundation](https://get.foundation/)
+15. [Minicss](https://minicss.org/)
+16. [Bulma](https://bulma.io/)
+17. [Getuikit](https://getuikit.com/)
+18. [Webui](https://asyncdesign.github.io/webui/)
+19. [Getskeleton](http://getskeleton.com/)
+20. [Semantic-ui](https://semantic-ui.com/)
+21. [Minstyle](https://minstyle.io/)
+22. [Getmdl](https://getmdl.io/)
+23. [Minireset](http://jgthms.com/minireset.css/) : Normalize gibi ama bu kütüphane bütün ayarları sıfırlıyor. 
+24. [Hover](https://ianlunn.github.io/Hover/) : Hover css kütüphanesi.
+25. [Magic](https://www.minimamente.com/project/magic/)
+26. [Csshake](https://elrumordelaluz.github.io/csshake/)
+27. [Purecss](https://purecss.io/)
+28. [Effecktcss](https://h5bp.github.io/Effeckt.css/)
+29. [Tuesday](https://shakrmedia.github.io/tuesday/)
+30. [Dynamiccss](https://ustymukhman.github.io/Dynamic.css/)
+31. [WickedCSS](https://kristofferandreasen.github.io/wickedCSS/#)
+32. [Luxbar](https://balzss.github.io/luxbar/)
+33. [Pie-Menu](https://nikesh.github.io/Pie-Menu/#)
+34. [Redq-megamenu](https://faysalhaque.github.io/redq-megamenu/)
+35. [Tailwindcss](https://tailwindcss.com/)
+36. [Cardinalcss](http://cardinalcss.com/)
+37. [Spinkit](https://tobiasahlin.com/spinkit/)
+38. [Blazeui](https://www.blazeui.com/)
+39. [Loaders](https://connoratherton.com/loaders)
+40. [Crayon](https://riccardoscalco.it/crayon/)
+41. [İsotope](https://isotope.metafizzy.co/#css)
+42. [Shoelace](https://shoelace.style/docs/installing.html)
+43. [Jessepollak-card](https://github.com/jessepollak/card)
+44. [Web-grid](https://webjeda.com/web-grid/)
+45. [Bootstrap-magic](https://pikock.github.io/bootstrap-magic/) : Bootstrap 4 css kütüphanesini kullanmak istiyorsunuz ama içerisinde değişiklikler yaptıktan sonra kullanmak istiyorsanız bu site size onu yapmanız için yardımcı oluyor. Hatta daha fazlasını yapıyor.
+46. [Getwaves](https://getwaves.io/) : Bazı web sitelerinde dalgalı yapılar görmüşsünüzdür. Sizde onu Photoshop da yapmışsınızdır. İşte ona hiç gerek yok. Bu site size o dalgalı yapıları oluşturmanız için yardımcı oluyor. 
+47. [Blobmaker](https://www.blobmaker.app/) : Yukarıdakinin bir değişiği.
+48. [Mehsatek](https://www.mehsatek.com/css-kodlari/)
+49. [Chartscss](https://chartscss.org/) : Grafik yapıları bu css kütüphanesi ile oluşturulmakta. Bir çok admin temalarında bu css kütüpnesini görürsünüz. Çok kullanılan bir kütüphanedir.
+
+
 
 
