@@ -347,3 +347,13 @@ Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,
 12. [Reactjs](https://reactjs.org/docs/getting-started.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi.
 13. [Vuejs](https://v3.vuejs.org/guide/introduction.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi. React a göre öğrenilmesi daha bsittir.
 
+### ![](image/html.svg) Html Klasörü
+Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yinede bu dokümantasyona bu klasörün içerisinde bulunan siteleride eklemek istedim.
+
+1. [W3schools](https://www.w3schools.com/tags/default.asp) : Anlatmaya gerek yok görüyorsuuzz. 😂
+2. [Htmlreference](https://htmlreference.io/)
+3. [Htmldersleri](http://www.htmldersleri.org/index.php?getir=html_primary&ID=3) : Türkçe bir site ingilizceden anlamıyorum ben diyorsanız.
+4. [Lifeacode](https://www.lifeacode.com/html-tags/html-doctype-etiketi.html) : Bu sitede daha düzenli bir şekilde anlatıyor html etiketlerini. Ama ben youtube dan fehmi uyar kanalına bakmanızı öneririm.
+
+
+
