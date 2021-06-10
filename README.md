@@ -48,6 +48,29 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 20. [kodrehberi](https://www.instagram.com/kodrehberi/) : Yazılım ile ilgili komik,bilgi ve motivasyon içerikleri paylaşan bir hesap.
 21. [gencyazilimci](https://www.instagram.com/gencyazilimci/) : Yazılım ile ilgili komik içerikler paylaşan bir hesap.
 22. [yazilimci.adamm](https://www.instagram.com/yazilimci.adamm/) : Yazılım ile ilgili komik,bilgi,motivasyon ve gündem içerikleri paylaşan bir hesap.
+23. [endertopaloglu](https://www.instagram.com/endertopaloglu/) : Aktif olarak instagram hesabında içerik paylaşmıyor ama youtube kanalına bakmanızı öneririm. Usta bir tasarımcı. Tasarım babası. 😂
+24. [kerimcanyektekcom](https://www.instagram.com/kerimcanyektekcom/) : Karekod un kurucusu.
+25. [uxswipe](https://www.instagram.com/uxswipe/) : Tasarım ile ilgili bilgi içerikleri paylaşan bir hesap.
+26. [ui8net](https://www.instagram.com/ui8net/) : UI ile ilgili tasarımlar paylaşan bir hesap.
+27. [web.talk](https://www.instagram.com/web.talk/) : Taarım ile ilgili bilgiler paylaşan bir hesap.
+28. [uiturkiye](https://www.instagram.com/uiturkiye/) : Tasarım ile ilgili bilgiler dosyalar paylaşan hesap. Bu arada içerikler türkçe.😁
+29. [interfacely](https://www.instagram.com/interfacely/) : Tasarım örnekleri ve o örnekte kullanılan yapılar ile ilgili içerikler paylaşan bir hesap.
+30. [ux.ferdicildiz](https://www.instagram.com/ux.ferdicildiz/) : Uzman bir tasarımcı. Youtube kanalına bakmanızı öneririm.
+31. [designspective](https://www.instagram.com/designspective/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+32. [uidacozeriz](https://www.instagram.com/uidacozeriz/) : Bazı firmaların ui tasarımlarını inceleyen bir hesap. Youtube kanallarına bakmanızı öneririm. 
+33. [afshint2y](https://www.instagram.com/afshint2y/) : Severek takip ettiğim bir grafik tasarımcısı. İconset lerini kullanıyorum bolca tasarımlarımda.
+34. [amirbaqian](https://www.instagram.com/amirbaqian/) : Bir üsteki ile aynı.
+35. [awsmd_com](https://www.instagram.com/awsmd_com/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+36. [ui_gradient](https://www.instagram.com/ui_gradient/) : Tasarım ile ilgili bilgi içerikleri paylaşan bir hesap.
+37. [ademilter](https://www.instagram.com/ademilter/) : Severek takip ettiğim bir yazılımcı. İnstagram hesabını kişisel içerikler paylaşmak için kullanıyor. Youtube kanalına bakmanızı öneririm. 
+38. [ux.base](https://www.instagram.com/ux.base/) : UX ile ilgili bilgi içerikleri paylaşan bir hesap.
+39. [uxbucket](https://www.instagram.com/uxbucket/) : UX ile ilgili bilgi içerikleri paylaşan bir hesap.
+40. [qclaydesign](https://www.instagram.com/qclaydesign/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+41. [uiuxdailytips](https://www.instagram.com/uiuxdailytips/) : UI ve UX ile ilgili bilgiler paylaşan bir  hesap.
+42. [coding_gyan_](https://www.instagram.com/coding_gyan_/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
+43. [coding.beast](https://www.instagram.com/coding.beast/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
+44. [ahmetekincicomtr](https://www.instagram.com/ahmetekincicomtr/) : Dijital içerik üreten bir hesap.
+45. [ravi.graphicdesigner](https://www.instagram.com/ravi.graphicdesigner/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 
 <br>
 
