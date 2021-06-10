@@ -408,6 +408,32 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 48. [Mehsatek](https://www.mehsatek.com/css-kodlari/)
 49. [Chartscss](https://chartscss.org/) : Grafik yapıları bu css kütüphanesi ile oluşturulmakta. Bir çok admin temalarında bu css kütüpnesini görürsünüz. Çok kullanılan bir kütüphanedir.
 
+### ![](image/javascript.svg) Javascript Klasörü
 
-
-
+1. [Jquery](https://jquery.com/)
+2. [Owlcarousel2](https://owlcarousel2.github.io/OwlCarousel2/) : Türkçesi atlı karınca olarak geçen Carousel yapımı için güzel bir kütüphane. Haber sitelerinde gördüğünüz sağa sola kayan resimli kartlar vardır. İşte onların yapımında kullanılıyor.
+3. [Chartjs](https://www.chartjs.org/) : Veri görselleştirme için 8 grafik türünü destekleyen ücretsiz bir açık kaynaklı JavaScript kütüphanesidir: bar, çizgi, alan, pasta, kabarcık, radar, polar ve dağılım.
+4. [Sigmajs](http://sigmajs.org/) : Grafik çizimine adanmış bir JavaScript kütüphanesi.
+5. [Pizza-pie-charts](https://zurb.com/playground/pizza-pie-charts) : Chartjs e benzer bir kütüphane.
+6. [Electronjs](https://www.electronjs.org/) : Javascript kullanarak masaüstü program yapılabilir mi diye soranlar için visual studio code bu javascript kütüphanesi kullanılarak yapılmış.  
+7. [Hammerjs](https://hammerjs.github.io/) : Nesneyi sürükleme bırakma işlemlerini yapabileceğiniz bir kütüphane. Üstelik mobil uyumlu.
+8. [Sortable](http://sortablejs.github.io/Sortable/) : Hammerjs gibi bir kütüphane.
+9. [Swiperjs](https://swiperjs.com/) : Owlcarousel2 benzer bir kütüphane ama daha iyisi.
+10. [Alpine](https://github.com/alpinejs/alpine)
+11. [Aurelia](http://aurelia.io/)
+12. [D3js](https://d3js.org/)
+13. [Taucharts](https://taucharts.com/)
+14. [Animejs](https://animejs.com/documentation/#domAttributes)
+15. [Fancyapps](http://fancyapps.com/fancybox/3/)
+16. [Reactjs](https://reactjs.org/) : Ben react bilmiyorum diyen bir senior front end developer yoktur her halde. Popüler bir javascript kütüphanesi.
+17. [Jarallax](https://free.nkdev.info/jarallax/) : Arka plan görüntüleri için pürüzsüz paralaks kaydırma efekti verebileceğiniz bir kütüphane.
+18. [Aquarelle](https://github.com/Ramotion/aquarelle)
+19. [FunnyText](https://alvarotrigo.com/funnyText/) : Yazılar üzerinde güzel animasyonlar yapabileceğiniz bir kütüphane.
+20. [FullPage](https://alvarotrigo.com/fullPage/) : Full sayfa üzerinde güzel animasyonlar ile geçiş yapmak için kullanılan bir kütüphane.
+21. [PagePiling](https://alvarotrigo.com/pagePiling/) : Yukarıdaki ile aynı işi yapıyor.
+22. [MultiScroll](https://alvarotrigo.com/multiScroll/#third) 
+23. [Vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
+24. [Jquerypp](http://jquerypp.com/)
+25. [Anijs](https://anijs.github.io/)
+26. [Bouncejs](http://bouncejs.com/)
+27. [Vuejs](https://vuejs.org/) : React ta göre öğrenmesi daha basit olan bir javascript kütüphanesi.
