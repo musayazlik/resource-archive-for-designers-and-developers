@@ -473,4 +473,31 @@ Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılı
 6. [Laravel-livewire](https://laravel-livewire.com/docs/2.x/alpine-js)
 7. [Jetstream.laravel](https://jetstream.laravel.com/2.x/introduction.html)
 
+### ![](image/iconsFonts.svg) İcon & Font Klasörü
+
+Tasarımcıda olsanız yazılımcıda olsanız fontları ve iconları bolca kullanırsınız. Bunlar ayrılmaz ikilidirler. Bende bunları ayırmadan tek bir klasörde tuttum.
+
+1. [İconfinder](https://www.iconfinder.com/)
+2. [Flaticon](https://www.flaticon.com/)
+3. [Google-Fonts](https://fonts.google.com/)
+4. [İconpark](https://iconpark.oceanengine.com/official)
+5. [Fontello](https://fontello.com/)
+6. [İconscout-icons](https://iconscout.com/icons)
+7. [İcons8](https://icons8.com/)
+8. [Dryicons](https://dryicons.com/)
+9. [Fontawesome](https://fontawesome.com/v4.7/)
+10. [İconmonstr](https://iconmonstr.com/)
+11. [Fontstruct](https://fontstruct.com/)
+12. [Adobe-Font](https://fonts.adobe.com/fonts?purpose=desktop&referrer=dd01e5bd12)
+13. [Freebestfonts](https://www.freebestfonts.com/)
+14. [Abstractfonts](https://www.abstractfonts.com/)
+15. [Dafont](https://www.dafont.com/)
+16. [İconarchive](https://iconarchive.com/)
+17. [Fontsquirrel](https://www.fontsquirrel.com/)
+18. [1001freefonts](https://www.1001freefonts.com/)
+19. [1001fonts](https://www.1001fonts.com/)
+20. [Androidicons](https://www.androidicons.com/)
+21. [Cssauthor-Free-script-fonts](https://cssauthor.com/free-script-fonts/)
+22. [Tablericons](https://tablericons.com/)
+23. [İconshock](https://www.iconshock.com/svg-icons/)
 
