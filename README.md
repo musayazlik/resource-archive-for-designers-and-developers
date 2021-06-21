@@ -501,3 +501,39 @@ Tasarımcıda olsanız yazılımcıda olsanız fontları ve iconları bolca kull
 22. [Tablericons](https://tablericons.com/)
 23. [İconshock](https://www.iconshock.com/svg-icons/)
 
+### ![](image/color.svg) Color Klasörü
+
+Ah şu renkler diyerek başlıyorum. Tasarımcı iseniz renkleri anlamanız baya zamanınızı alıyor. Renkler ile ilgili baya site biliktirmişim.😀
+
+1. [Flatuicolors](https://flatuicolors.com/)
+2. [Mycolor](https://mycolor.space/)
+3. [colordesigner](https://colordesigner.io/)
+4. [coolors](https://coolors.co/palettes/trending)
+5. [grabient](https://www.grabient.com/)
+6. [coolhue](https://webkul.github.io/coolhue/)
+7. [cssgradient](https://cssgradient.io/)
+8. [colorhunt](https://colorhunt.co/)
+9. [Adobe-Color](https://color.adobe.com/tr/create)
+10. [materialui](https://www.materialui.co/socialcolors)
+11. [colorsinspo](https://colorsinspo.com/)
+12. [lolcolors](https://www.webdesignrankings.com/resources/lolcolors/)
+13. [colordrop](https://colordrop.io/)
+14. [webgradients](https://webgradients.com/)
+15. [materialcolors](http://materialcolors.com/)
+16. [materialpalette](https://www.materialpalette.com/deep-orange/deep-orange)
+17. [material](https://material.io/guidelines/style/color.html#color-color-palette)
+18. [cssauthor](https://cssauthor.com/free-polygonal-backgrounds-and-textures/)
+19. [htmlcolors](https://www.materialui.co/htmlcolors)
+20. [colourlovers](https://www.colourlovers.com/palettes)
+21. [abecem](http://www.abecem.net/web/renk.html)
+22. [angrytools](https://angrytools.com/css-generator/gradient/)
+23. [paletton](https://paletton.com/#uid=15e0u0koX++de+Ljv+YuQ+WOyZA)
+24. [colourlovers](https://www.colourlovers.com/)
+25. [colrd](http://colrd.com/)
+26. [0to255](https://www.0to255.com/)
+27. [colorhunter](http://www.colorhunter.com/)
+28. [checkmycolours](https://www.checkmycolours.com/)
+29. [colorbox](https://colorbox.io/)
+
+
+
