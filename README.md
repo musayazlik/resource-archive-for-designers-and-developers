@@ -460,3 +460,17 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 25. [Anijs](https://anijs.github.io/)
 26. [Bouncejs](http://bouncejs.com/)
 27. [Vuejs](https://vuejs.org/) : React ta göre öğrenmesi daha basit olan bir javascript kütüphanesi.
+
+### ![](image/php.svg) Php Klasörü
+
+Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılımın front end tarafına yöneldiğimi sanırım söylemiştim.😀 Ama ilk başlarda php ile de başladığımıda söylemiştim tabi o zamanlar bu kadar arşiv tutan birisi değildim. Ondan bu klasörde pek fazla kaynak bilikmemiş. 😁
+
+1. [Laravel](https://laravel.com/)
+2. [Codeigniter](https://www.codeigniter.com/)
+3. [Znframework](https://www.znframework.com/)
+4. [Bestlaravel](https://bestlaravel.com/)
+5. [Laradock](https://laradock.io/)
+6. [Laravel-livewire](https://laravel-livewire.com/docs/2.x/alpine-js)
+7. [Jetstream.laravel](https://jetstream.laravel.com/2.x/introduction.html)
+
+
