@@ -580,3 +580,43 @@ Projelerinizde ister istemez fotoğraf veya video kullanmanız gerekiyor. Bunlar
 39. [picsum](https://picsum.photos/)
 40. [clipartlogo](https://tr.clipartlogo.com/)
 
+
+### ![](image/design.svg) Design Klasörü
+Bu klasörde de tasarım ile ilgili siteleri topladım. Toplamayada devam ediyorum.
+
+
+1. [pixlr](https://pixlr.com/tr/)
+2. [glassmorphism](https://glassmorphism.com/)
+3. [blush](https://blush.design/)
+4. [uidesigndaily](https://www.uidesigndaily.com/)
+5. [uplabs](https://www.uplabs.com/)
+6. [undraw](https://undraw.co/illustrations)
+7. [sketchappsources](https://www.sketchappsources.com/)
+8. [drawkit](https://www.drawkit.io/)
+9. [manypixels](https://www.manypixels.co/gallery)
+10. [lukaszadam](https://lukaszadam.com/illustrations)
+11. [humaaans](https://www.humaaans.com/)
+12. [getavataaars](https://getavataaars.com/)
+13. [freellustrations](https://freellustrations.com/)
+14. [iradesign](https://iradesign.io/)
+15. [uispace](https://uispace.net/)
+16. [icons8](https://icons8.com/illustrations)
+17. [freepik](https://www.freepik.com/)
+18. [vecteezy](https://www.vecteezy.com/)
+19. [tasarimcantasi](https://tasarimcantasi.com/)
+20. [365psd](https://tr.365psd.com/)
+21. [clipart](https://tr.clipart.me/)
+22. [freebiesbug](https://freebiesbug.com/)
+23. [graphicburger](https://graphicburger.com/)
+24. [all-free-download](https://all-free-download.com/)
+25. [seeklogo](https://seeklogo.com/)
+26. [clipartlogo](https://tr.clipartlogo.com/)
+27. [bluevertigo](https://www.bluevertigo.com.ar/)
+28. [storyset](https://storyset.com/)
+29. [inspirationui](http://inspirationui.com/)
+30. [haikei](https://app.haikei.app/)
+
+
+
+
+
