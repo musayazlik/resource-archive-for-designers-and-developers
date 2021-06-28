@@ -618,5 +618,14 @@ Bu klasörde de tasarım ile ilgili siteleri topladım. Toplamayada devam ediyor
 
 
 
+## ![](image/mentor.svg) Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar
+
+1. [designgost](https://www.designgost.com/) : Daha çok tasarımcıların bulunduğu bir mentörlük sitesidir. Verilen mentörlük hizmeti ücretsizdir ve site türkçedir. 
+2. [frontendmentor](https://www.frontendmentor.io/)
+3. [adplist](https://adplist.org/)
+4. [superpeers](https://superpeer.com/) : Uzman kişiler ile ücretli ücretsiz sohbet edebileceğiniz bir platform. [Aha bende buradayım 😁](https://superpeer.com/musayazlik)
+5. [codemvia](http://codemvia.org/) : İster mentör olabileceğiniz isterseniz mentee olabileceğiniz yeni kurulmuş bir kuruluş.
+
+
 
 
