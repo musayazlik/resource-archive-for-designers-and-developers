@@ -335,8 +335,12 @@ Güzel bir bölüme geldik. Siz yapıyor musunuz bilmiyorum ama ben her hafta 1 
 223. [Zamansız Eğitimler](https://www.youtube.com/channel/UCDSvN-wCyNjMstH2N4fmROg)
 224. [Zekeriya Mulbay](https://www.youtube.com/channel/UCmEDwMLflTreYddUMQTdy-A)
 
+<br>
+
 ## Bookmarks (Yer İşaretleri)
 Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken bazı siteler oluyordu. Herkesin yaptığı gibi bende tarayıcının yer işaretleri (yer imleri) kısmına kayıt ederim. Son günlerde yer imleri klasörler halinde düzenledim. Ama klasörler içerisine atmış olduğum siteleri pekte düzenlediğimi söyleyemem. Burada ise yer imlere kaydetmiş olduğum siteleri hem sizler ile paylaşacağım hemde klasörlerin içerisini düzenlemiş olacağım. 
+
+<br>
 
 ### ![](image/social.svg) Social Klasörü
 
@@ -351,6 +355,8 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 9. [Atom Discuss](https://discuss.atom.io/) : Atom kod editörü için bir yardımlaşma sitesi. 
 10. [Meetup](https://www.meetup.com/) : Gerçek hayattaki grup buluşmalarını kolaylaştıran bir sosyal ağ.
 11. [Dev.to](https://dev.to/) : Geliştiricilerin blog yazılarını paylaştığı medium gibi bir blog sitesi. Çok güzel bir site bağımlı oldum siteye. 😁
+
+<br>
 
 ### ![](image/document.svg) Document Klasörü
 Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,node.js ve php ile ilgili kütüphanelerin dokümantasyon sayfalarını ve dillere ait hoşuma giden siteleri tutmaya başladım. 
@@ -370,6 +376,8 @@ Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,
 12. [Reactjs](https://reactjs.org/docs/getting-started.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi.
 13. [Vuejs](https://v3.vuejs.org/guide/introduction.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi. React a göre öğrenilmesi daha bsittir.
 
+<br>
+
 ### ![](image/html.svg) Html Klasörü
 Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yinede bu dokümantasyona bu klasörün içerisinde bulunan siteleride eklemek istedim.
 
@@ -377,6 +385,8 @@ Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yi
 2. [Htmlreference](https://htmlreference.io/)
 3. [Htmldersleri](http://www.htmldersleri.org/index.php?getir=html_primary&ID=3) : Türkçe bir site ingilizceden anlamıyorum ben diyorsanız.
 4. [Lifeacode](https://www.lifeacode.com/html-tags/html-doctype-etiketi.html) : Bu sitede daha düzenli bir şekilde anlatıyor html etiketlerini. Ama ben youtube dan fehmi uyar kanalına bakmanızı öneririm.
+
+<br>
 
 ### ![](image/css.svg) Css Klasörü
 Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben biraz daha UI bakışlı birisiyim bu yüzden css ile ilgili çok fazla site toplamışım. Birazda onlara bakalım. Bu klasörde bolca kütüphane biliktirmişim mutlaka bilmediğiniz bir css kütüphanesi vardır.😀
@@ -431,6 +441,8 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 48. [Mehsatek](https://www.mehsatek.com/css-kodlari/)
 49. [Chartscss](https://chartscss.org/) : Grafik yapıları bu css kütüphanesi ile oluşturulmakta. Bir çok admin temalarında bu css kütüpnesini görürsünüz. Çok kullanılan bir kütüphanedir.
 
+<br>
+
 ### ![](image/javascript.svg) Javascript Klasörü
 
 1. [Jquery](https://jquery.com/)
@@ -461,6 +473,8 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 26. [Bouncejs](http://bouncejs.com/)
 27. [Vuejs](https://vuejs.org/) : React ta göre öğrenmesi daha basit olan bir javascript kütüphanesi.
 
+<br>
+
 ### ![](image/php.svg) Php Klasörü
 
 Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılımın front end tarafına yöneldiğimi sanırım söylemiştim.😀 Ama ilk başlarda php ile de başladığımıda söylemiştim tabi o zamanlar bu kadar arşiv tutan birisi değildim. Ondan bu klasörde pek fazla kaynak bilikmemiş. 😁
@@ -472,6 +486,8 @@ Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılı
 5. [Laradock](https://laradock.io/)
 6. [Laravel-livewire](https://laravel-livewire.com/docs/2.x/alpine-js)
 7. [Jetstream.laravel](https://jetstream.laravel.com/2.x/introduction.html)
+
+<br>
 
 ### ![](image/iconsFonts.svg) İcon & Font Klasörü
 
@@ -500,6 +516,8 @@ Tasarımcıda olsanız yazılımcıda olsanız fontları ve iconları bolca kull
 21. [Cssauthor-Free-script-fonts](https://cssauthor.com/free-script-fonts/)
 22. [Tablericons](https://tablericons.com/)
 23. [İconshock](https://www.iconshock.com/svg-icons/)
+
+<br>
 
 ### ![](image/color.svg) Color Klasörü
 
@@ -534,6 +552,8 @@ Ah şu renkler diyerek başlıyorum. Tasarımcı iseniz renkleri anlamanız baya
 27. [colorhunter](http://www.colorhunter.com/)
 28. [checkmycolours](https://www.checkmycolours.com/)
 29. [colorbox](https://colorbox.io/)
+
+<br>
 
 ### ![](image/fotovideo.svg) Foto & Video Klasörü
 
@@ -580,6 +600,7 @@ Projelerinizde ister istemez fotoğraf veya video kullanmanız gerekiyor. Bunlar
 39. [picsum](https://picsum.photos/)
 40. [clipartlogo](https://tr.clipartlogo.com/)
 
+<br>
 
 ### ![](image/design.svg) Design Klasörü
 Bu klasörde de tasarım ile ilgili siteleri topladım. Toplamayada devam ediyorum.
@@ -616,7 +637,16 @@ Bu klasörde de tasarım ile ilgili siteleri topladım. Toplamayada devam ediyor
 29. [inspirationui](http://inspirationui.com/)
 30. [haikei](https://app.haikei.app/)
 
+<br>
 
+### ![](image/package.svg) Package Klasörü
+
+1. [packagist](https://packagist.org/)
+2. [npmjs](https://www.npmjs.com/)
+3. [cdnjs](https://cdnjs.com/)
+4. [pypi](https://pypi.org/)
+
+<br>
 
 ## ![](image/mentor.svg) Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar
 
