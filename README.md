@@ -665,6 +665,36 @@ Aaa bu klasör boş kalmış neredeyse... 😂
 4. [superpeers](https://superpeer.com/) : Uzman kişiler ile ücretli ücretsiz sohbet edebileceğiniz bir platform. [Aha bende buradayım 😁](https://superpeer.com/musayazlik)
 5. [codemvia](http://codemvia.org/) : İster mentör olabileceğiniz isterseniz mentee olabileceğiniz yeni kurulmuş bir kuruluş.
 
+<br>
+
+## ![](image/freelancer.svg) Freelance hizmetler verebileceğiniz siteler
+
+Dönem freelance olarak çalışma devri atık diyebiliriz özellikle yazılım alanında. Ama freelance çalışmakta kolay bir iş versiyonu değil her müşteriniz sizin yeni patronunuz oluyor. Bu durumda freelance çalışmak normal çalışmaya göre biraz daha zorlayıcı olabiliyor. Ben bu klasörde freelance işleri alabileceğiniz siteleri listeledim. Bayaa site varmış freelance çalışabileceğiniz site. 😁
+
+1. [Fiverr](https://www.fiverr.com/)
+2. [Peopleperhour](https://www.peopleperhour.com/)
+3. [Upwork](https://www.upwork.com/)
+4. [Freelancer](https://www.tr.freelancer.com/)
+5. [Zillancer](https://zillancer.com/)
+6. [Toptal](https://www.toptal.com/)
+7. [Simplyhired](https://www.simplyhired.com/)
+8. [Aquent](https://aquent.com/)
+9. [Crowded](https://www.crowded.com/)
+10. [Guru](https://www.guru.com/)
+11. [R10](https://www.r10.net/)
+12. [Wmaraci](https://wmaraci.com/yeni-ilanlar)
+13. [bionluk](https://bionluk.com/)
+14. [Armut](https://armut.com/)
+15. [Uzmankirala](https://www.uzmankirala.com/)
+16. [Projekurdu](http://www.projekurdu.com/)
+17. [Webly](https://webly.com.tr/)
+18. [İcerikbulutu](https://icerikbulutu.com/)
+19. [Nexxt](https://www.nexxt.com/)
+
+
+
+
+
 
 
 
