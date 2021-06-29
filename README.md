@@ -648,6 +648,15 @@ Bu klasörde de tasarım ile ilgili siteleri topladım. Toplamayada devam ediyor
 
 <br>
 
+### ![](image/database.svg) Database Klasörü
+
+Aaa bu klasör boş kalmış neredeyse... 😂
+
+1. [Drawsql](https://drawsql.app/)
+2. [phpmyadmin](https://www.phpmyadmin.net/)
+
+<br>
+
 ## ![](image/mentor.svg) Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar
 
 1. [designgost](https://www.designgost.com/) : Daha çok tasarımcıların bulunduğu bir mentörlük sitesidir. Verilen mentörlük hizmeti ücretsizdir ve site türkçedir. 
