@@ -2,7 +2,7 @@
 
 Reklamlar.... Hanımların dikkatine hem tasarım hemde yazılım makinesi ayağınıza geldi...😂
 
-Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyorsunuz? Ama bunun için hem tasarımcı hemde yazılımcı ile anlaşmanız mı gerekiyor? Artık gerekmiyor. Ben Musa Yazlık isteklerinize uygun olarak sadece size özel olan statik web sitenizin tasarımını figma üzerinde yaptıktan sonra html5,css3(scss) ve javascript dillerini kullanarak seo'ya uygun kodlama ile statik web sitenizi yapabilirim. İletişim aşağıdaki bağlantıları kullanabilirsiniz.
+Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyorsunuz? Ama bunun için hem tasarımcı hemde yazılımcı ile anlaşmanız mı gerekiyor? Artık gerekmiyor. Ben Musa Yazlık isteklerinize uygun olarak sadece size özel olan statik web sitenizin tasarımını figma üzerinde yaptıktan sonra html5,css3(scss) ve javascript dillerini kullanarak seo'ya uygun kodlama ile statik web sitenizi yapabilirim. İletişim için aşağıdaki bağlantıları kullanabilirsiniz.
 
 <p align="left">
 <a href="https://fb.com/musayazlik" target="blank"><img align="center" src="image/social/facebook.svg" alt="musayazlik" width="40" /></a>
