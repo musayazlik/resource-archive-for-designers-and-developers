@@ -1,3 +1,20 @@
+# Önce Reklam 😁😁
+
+Reklamlar.... Hanımların dikkatine hem tasarım hemde yazılım makinesi ayağınıza geldi...😂
+
+Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyorsunuz? Ama bunun için hem tasarımcı hemde yazılımcı ile anlaşmanız mı gerekiyor? Artık gerekmiyor. Ben Musa Yazlık isteklerinize uygun olarak sadece size özel olan statik web sitenizin tasarımını figma üzerinde yaptıktan sonra html5,css3(scss) ve javascript dillerini kullanarak seo'ya uygun kodlama ile statik web sitenizi yapabilirim. İletişim aşağıdaki bağlantıları kullanabilirsiniz.
+
+<p align="left">
+<a href="https://fb.com/musayazlik" target="blank"><img align="center" src="image/social/facebook.svg" alt="musayazlik" width="40" /></a>
+<a href="https://twitter.com/musayazlik" target="blank"><img align="center" src="image/social/twitter.svg" alt="musayazlik" width="40" /></a>
+<a href="https://instagram.com/musa_yazlik/" target="blank"><img align="center" src="image/social/instagram.svg" alt="musayazlik" width="40" /></a>
+<a href="https://linkedin.com/in/musayazlik" target="blank"><img align="center" src="image/social/linkedin.svg" alt="musayazlik" width="40" /></a>
+<a href="https://t.me/musayazlik" target="blank"><img align="center" src="image/social/telegram.svg" alt="musayazlik" width="40" /></a>
+<a href="mailto:info@musayazlik.com" target="blank"><img align="center" src="image/social/email.svg" alt="musayazlik" width="40" /></a>
+</p>
+
+
+
 # Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar
 
 Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısaca kendimden bahsettikten sonra depo ile ilgili bilgiler vereyim diyorum nasıl olur?😁 İsmim Musa Yazlık. 24 yaşındayım. Erciyes üniversitesi kayseri meslek yüksek okulu Bilgisayar programcılığı mezunuyum. Kendimi 2017 yılının haziran ayından bu yana web tasarım ve web yazılım alanında geliştirmekteyim. Şu anda ise hobi amaçlı figma öğreniyorum ve tasarımlar yapıyorum. Uzmanlık olarakta Web alanının Frontend tarafında kendimi geliştirmeye devam ediyorum. 
