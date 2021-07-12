@@ -594,50 +594,66 @@ Ah şu renkler diyerek başlıyorum. Tasarımcı iseniz renkleri anlamanız baya
 
 <br>
 
-### ![](image/fotovideo.svg) Foto & Video Klasörü
+### ![](image/imgs.svg) Imgs Klasörü
 
-Projelerinizde ister istemez fotoğraf veya video kullanmanız gerekiyor. Bunlar içinde de ücretli veya ücretsiz kullanabileceğin resimlerin ve videoların paaylaşıldığı siteleri bu klasörde depoladım. Aynı zamanda vektörel çizimlerin olduğu siteleride bu klasör aldında topladım.
+Bu klasörde de projelerinde kullanabileceğiniz ücretli ücretsiz resimleri paylaşan siteleri bulunmakta. Uyarı olarak projelerinizde direk olarak google dan resim alıp kullanmayın. Her sanat eserinin olduğu gibi resimlerinde telif hakları vardır. Bu aşağıdaki sitelerin de çoğunda kullanacağınız resimler ticari olarakta kullanabileceğiniz ücretsiz resimleri içermektedir. Unutmayın projenizde kullanacağınız içerinin lisan ına mutlaka dikkat ediniz.
 
 1. [freepik](https://www.freepik.com/)
 2. [pixabay](https://pixabay.com/)
 3. [loremipsum](https://loremipsum.io/21-of-the-best-placeholder-image-generators/)
-4. [unsplash](https://unsplash.com/)
-5. [vecteezy](https://www.vecteezy.com/)
-6. [hiclipart](https://www.hiclipart.com/)
-7. [flickr](https://www.flickr.com/)
-8. [grafikarsiv](https://www.grafikarsiv.com/)
-9. [placeholder](https://placeholder.com/)
-10. [uifaces](https://uifaces.co/)
-11. [freeimages](https://www.freeimages.com/tr)
-12. [365psd](https://365psd.com/)
-13. [500px](https://500px.com/)
-14. [adobe](https://stock.adobe.com/search/images)
-15. [vektorelcizim](http://vektorelcizim.net/)
-16. [pravatar](https://pravatar.cc/)
+4. [generated](https://generated.photos/)
+5. [meshgradients](https://www.meshgradients.design/?ref=producthunt)
+6. [pixeltrue](https://www.pixeltrue.com/scenic?ref=producthunt#pricing)
+7. [unsplash](https://unsplash.com/)
+8. [vecteezy](https://www.vecteezy.com/)
+9. [hiclipart](https://www.hiclipart.com/)
+10. [flickr](https://www.flickr.com/)
+11. [grafikarsiv](https://www.grafikarsiv.com/index.html)
+12. [placeholder](https://placeholder.com/)
+13. [freeimages](https://www.freeimages.com/tr)
+14. [500px](https://500px.com/)
+15. [adobe stock](https://stock.adobe.com/tr/)
+16. [vektorelcizim](http://vektorelcizim.net/)
 17. [negativespace](https://negativespace.co/)
 18. [alphacoders](https://alphacoders.com/)
 19. [lifeofpix](https://www.lifeofpix.com/)
 20. [picography](https://picography.co/)
 21. [kaboompics](https://kaboompics.com/)
 22. [freestocks](https://freestocks.org/)
-23. [imcreator](http://imcreator.com/free)
-24. [skitterphoto](https://skitterphoto.com/)
-25. [shotstash](https://shotstash.com/)
+23. [skitterphoto](https://skitterphoto.com/)
+24. [shotstash](https://shotstash.com/)
+25. [stocksnap](https://stocksnap.io/)
 26. [picjumbo](https://picjumbo.com/)
-27. [stocksnap](https://stocksnap.io/)
-28. [foodiesfeed](https://www.foodiesfeed.com/)
-29. [mmtstock](https://mmtstock.com/)
-30. [gratisography](https://gratisography.com/)
-31. [pexels](https://www.pexels.com/tr-tr/)
-32. [pexels-video](https://www.pexels.com/videos/)
-33. [cssauthor](https://cssauthor.com/best-free-scene-creators-for-designers/)
-34. [tinyfac](https://tinyfac.es/)
-35. [illlustrations](https://illlustrations.co/)
-36. [glazestock](https://www.glazestock.com/)
-37. [splitshire](https://www.splitshire.com/)
-38. [lifeofpix](https://www.lifeofpix.com/)
-39. [picsum](https://picsum.photos/)
-40. [clipartlogo](https://tr.clipartlogo.com/)
+27. [foodiesfeed](https://www.foodiesfeed.com/)
+28. [focastock](https://focastock.com/)
+29. [gratisography](https://gratisography.com/)
+30. [pexels](https://www.pexels.com/tr-tr/)
+31. [splitshire](https://www.splitshire.com/)
+32. [clipartlogo](https://tr.clipartlogo.com/)
+
+<br>
+
+#### Remove Klasörü
+
+Elinizde bulunan resimlerin photoshop programına ihtiyaç duymadan arka planlarını silebileceğiniz siteler
+
+1. [removal](https://removal.ai/)
+2. [remove](https://www.remove.bg/)
+3. [photoscissors](https://photoscissors.com/)
+4. [pixlr](https://pixlr.com/tr/remove-background/)
+5. [unscreen](https://www.unscreen.com/)
+
+<br>
+
+### ![](image/videos.svg) Videos Klasörü
+
+Bu klasörde de projelerinizde kullanabileceğiniz video sitelerini depoladım. Projelerinizde youtube içeriklerini video olarak kullanmayın sıkıntı yaşarsınız.😊
+
+1. [vecteezy](https://www.vecteezy.com/free-videos)
+2. [lifeofvids](https://lifeofvids.com/)
+3. [pexels](https://www.pexels.com/videos/)
+4. [splitshire](https://www.splitshire.com/category/video/)
+5. [coverr](https://coverr.co/)
 
 <br>
 
