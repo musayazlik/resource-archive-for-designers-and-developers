@@ -11,6 +11,7 @@ Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyor
 <a href="https://linkedin.com/in/musayazlik" target="blank"><img align="center" src="image/social/linkedin.svg" alt="musayazlik" width="40" /></a>
 <a href="https://t.me/musayazlik" target="blank"><img align="center" src="image/social/telegram.svg" alt="musayazlik" width="40" /></a>
 <a href="mailto:info@musayazlik.com" target="blank"><img align="center" src="image/social/email.svg" alt="musayazlik" width="40" /></a>
+<a href="https://superpeer.com/musayazlik" target="blank"><img align="center" src="image/social/superpeer.svg" alt="musayazlik" width="40" /></a>  
 </p>
 
 
