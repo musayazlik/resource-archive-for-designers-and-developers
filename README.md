@@ -507,33 +507,54 @@ Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılı
 
 <br>
 
-### ![](image/iconsFonts.svg) İcon & Font Klasörü
+### ![](image/icons.svg) Icon Klasörü
 
-Tasarımcıda olsanız yazılımcıda olsanız fontları ve iconları bolca kullanırsınız. Bunlar ayrılmaz ikilidirler. Bende bunları ayırmadan tek bir klasörde tuttum.
+Her tasarımcı mutlaka kullandığı favori bir ikon seti vardır. Benimde favorim şu anda iconsax icon seti. Tasarımcı iconların tasarımını baya ince ayarlara göre hazırlamış. Neyse bu klasörde de bulabilildiğim bütün icon setlerini veya iconları bulabileceğiniz siteleri depoladım. 
 
-1. [İconfinder](https://www.iconfinder.com/)
-2. [Flaticon](https://www.flaticon.com/)
-3. [Google-Fonts](https://fonts.google.com/)
-4. [İconpark](https://iconpark.oceanengine.com/official)
-5. [Fontello](https://fontello.com/)
-6. [İconscout-icons](https://iconscout.com/icons)
-7. [İcons8](https://icons8.com/)
-8. [Dryicons](https://dryicons.com/)
-9. [Fontawesome](https://fontawesome.com/v4.7/)
-10. [İconmonstr](https://iconmonstr.com/)
-11. [Fontstruct](https://fontstruct.com/)
-12. [Adobe-Font](https://fonts.adobe.com/fonts?purpose=desktop&referrer=dd01e5bd12)
-13. [Freebestfonts](https://www.freebestfonts.com/)
-14. [Abstractfonts](https://www.abstractfonts.com/)
-15. [Dafont](https://www.dafont.com/)
-16. [İconarchive](https://iconarchive.com/)
-17. [Fontsquirrel](https://www.fontsquirrel.com/)
-18. [1001freefonts](https://www.1001freefonts.com/)
-19. [1001fonts](https://www.1001fonts.com/)
-20. [Androidicons](https://www.androidicons.com/)
-21. [Cssauthor-Free-script-fonts](https://cssauthor.com/free-script-fonts/)
-22. [Tablericons](https://tablericons.com/)
-23. [İconshock](https://www.iconshock.com/svg-icons/)
+1. [iconfinder](https://www.iconfinder.com/)
+2. [flaticon](https://www.flaticon.com/)
+3. [bootstrap icon](https://icons.getbootstrap.com/)
+4. [google font (icon)](https://fonts.google.com/icons)
+5. [fontawesome](https://fontawesome.com/v4.7/icons/)
+6. [svgrepo](https://www.svgrepo.com/)
+7. [fontello](https://fontello.com/)
+8. [icomoon](https://icomoon.io/)
+9. [iconpark](https://iconpark.oceanengine.com/official)
+10. [iconscout](https://iconscout.com/icons)
+11. [icons8](https://icons8.com/?utm_source=resources&utm_medium=freebie&utm_campaign=freebie)
+12. [iconshock](https://www.iconshock.com/)
+13. [dryicons](https://dryicons.com/)
+14. [iconmonstr](https://iconmonstr.com/)
+15. [iconarchive](http://www.iconarchive.com/)
+16. [androidicons](https://www.androidicons.com/)
+17. [tablericons](https://tablericons.com/)
+18. [SuperTinyIcons](https://github.com/edent/SuperTinyIcons)
+19. [iconninja](https://www.iconninja.com/)
+20. [devicons](http://vorillaz.github.io/devicons/#/main)
+21. [iconduck](https://iconduck.com/)
+22. [iconsax](http://iconsax.io/)
+23. [glyphy](https://www.glyphy.io/?ref=blog.moeminmamdouh.com)
+24. [drawkit](https://www.drawkit.io/free-icons)
+25. [iconoir](https://iconoir.com/)
+26. [uplabs](https://www.uplabs.com/icons)
+27. [lineicons](https://lineicons.com/)
+
+<br>
+
+### ![](image/fonts.svg) Font Klasörü
+
+Şu anda en popüler font sitesi google font hatta ben sadece google fontta bulunan fontları kodlamalarımda kullanıyorum. Ama bu klasörede gerekli gereksiz bütün font sitelerini eklemişim. 
+
+1. [Google Font](https://fonts.google.com/)
+2. [fontstruct](https://fontstruct.com/)
+3. [Adobe Font](https://fonts.adobe.com/fonts?purpose=desktop&referrer=dd01e5bd12)
+4. [freebestfonts](https://www.freebestfonts.com/)
+5. [abstractfonts](https://www.abstractfonts.com/)
+6. [dafont](https://www.dafont.com/)
+7. [fontsquirrel](https://www.fontsquirrel.com/)
+8. [1001freefonts](https://www.1001freefonts.com/)
+9. [1001fonts](https://www.1001fonts.com/)
+10. [cssauthor](https://cssauthor.com/free-script-fonts/)
 
 <br>
 
