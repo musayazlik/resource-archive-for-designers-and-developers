@@ -712,6 +712,55 @@ Aaa bu klasör boş kalmış neredeyse... 😂
 
 <br>
 
+### ![](image/generator.svg) Generator Klasörü
+
+Evet en güzel klasöre geldik bence. Bu klasörde ise işinizi kolaylaştıracak bir çok şey var diyebilirim. Yazacak başke bir şey bulamadım. Sitelere bakınca böle sitelermi varmış diyeyeceğinize eminim. 🤣
+
+1. [css-separator-generator](https://wweb.dev/resources/css-separator-generator/)
+2. [getwaves](https://getwaves.io/)
+3. [shadows.brumm.af](https://shadows.brumm.af/)
+4. [cssgrid-generator](https://cssgrid-generator.netlify.app/)
+5. [clippy](https://bennettfeely.com/clippy/)
+6. [fancy-border-radius](https://9elements.github.io/fancy-border-radius/)
+7. [easing-gradient](https://larsenwork.com/easing-gradients/)
+8. [blobmaker](https://www.blobmaker.app/)
+9. [svgwave](https://svgwave.in/)
+10. [squircley](https://squircley.app/)
+11. [svg-shape-generator](https://www.softr.io/tools/svg-shape-generator)
+12. [blobs](https://blobs.app/?e=12&gw=6&se=440&g=eecda3|ef629f&o=0)
+13. [grid.layoutit](https://grid.layoutit.com/)
+14. [griddy](https://griddy.io/)
+15. [css-grid-layout-generator](https://css-grid-layout-generator.pw/)
+16. [theappguruz](https://www.theappguruz.com/tag-tools/web/CSSAnimations/)
+17. [cssanimate](https://cssanimate.com/)
+18. [keyframes](https://keyframes.app/animate/)
+19. [jeremyckahn](https://jeremyckahn.github.io/stylie/)
+20. [haikei](https://app.haikei.app/)
+21. [ray.so](https://ray.so/)
+22. [neumorphism](https://neumorphism.io/#e0e0e0)
+23. [editor.md](https://pandao.github.io/editor.md/en.html)
+24. [10015](https://10015.io/)
+25. [tabbied](https://tabbied.com/)
+26. [getcssscan](https://getcssscan.com/css-box-shadow-examples?ref=prototyprio)
+27. [patternico](https://patternico.com//)
+28. [omatsuri](https://omatsuri.app/)
+29. [shapedivider](https://www.shapedivider.app/)
+30. [generated.photos](https://generated.photos/)
+31. [duotone](https://duotone.shapefactory.co/)
+32. [ui.glass](https://ui.glass/generator/?ref=producthunt)
+33. [tinter.uxie](https://tinter.uxie.io/)
+34. [nice-avatar.chilllab](https://nice-avatar.chilllab.io/)
+35. [gradientmagic](https://www.gradientmagic.com/)
+36. [trianglify](https://trianglify.io/)
+37. [webcode.tools](https://webcode.tools/)
+38. [mega-creator](https://icons8.com/mega-creator)
+39. [glassmorphism](https://glassmorphism.com/)
+40. [getavataaars](https://getavataaars.com/)
+41. [coolbackgrounds](https://coolbackgrounds.io/)
+
+<br>
+
+
 ## ![](image/mentor.svg) Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar
 
 1. [designgost](https://www.designgost.com/) : Daha çok tasarımcıların bulunduğu bir mentörlük sitesidir. Verilen mentörlük hizmeti ücretsizdir ve site türkçedir. 
