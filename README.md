@@ -796,7 +796,14 @@ Dönem freelance olarak çalışma devri atık diyebiliriz özellikle yazılım 
 19. [Nexxt](https://www.nexxt.com/)
 
 
+## ![](image/cloud-server.svg) Yaptığınız projeleri yayına alabileceğiniz ücretsiz siteler
 
+Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain için paranız vardır. Birde node.js veya python ile proje yapıyor iseniz host yerine sanal sunucuya ihtiyacınız olacaktır. Onlarında size yaklaşık aylık 20-30 tl maliyeti olacaktır. Ama artık ihtiyacınız yok. Heroku, dinamik basit ihtiyaçlarınız için her işinizi görmekte. Diğerlerinde ise ise sadece statik projelerinizi yayına alabiliyorsunuz. Ben projelerimi ücretsiz yayına albileceğim 4 tane site bulabildim. Daha fazlası var ise iletişim adreslerimden bana bildirebilirsiniz.
+
+1. [heroku](https://www.heroku.com/)
+2. [netlify](https://app.netlify.com/)
+3. [vercel](https://vercel.com/)
+4. [surge](https://surge.sh/)
 
 
 
