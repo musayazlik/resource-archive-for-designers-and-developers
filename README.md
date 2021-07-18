@@ -658,39 +658,51 @@ Bu klasörde de projelerinizde kullanabileceğiniz video sitelerini depoladım. 
 <br>
 
 ### ![](image/design.svg) Design Klasörü
-Bu klasörde de tasarım ile ilgili siteleri topladım. Toplamayada devam ediyorum.
+Bu klasörde de tasarım ile ilgili ilham alabileceğiniz siteleri topladım. Toplamayada devam ediyorum.
 
+1. [dribbble](https://dribbble.com/)
+2. [behance](https://www.behance.net/)
+3. [uidesigndaily](https://www.uidesigndaily.com/)
+4. [saaslandingpage](https://saaslandingpage.com/)
+5. [land-book](https://land-book.com/)
+6. [landingfolio](https://www.landingfolio.com/inspiration/landing-page/mobile-app)
+7. [onepagelove](https://onepagelove.com/)
+8. [humans](https://humans.fyi/)
+9. [awwwards](https://www.awwwards.com/websites/portfolio/)
+10. [siteinspire](https://www.siteinspire.com/websites?categories=19)
+11. [ecomm](https://ecomm.design/)
+12. [uxarchive](https://uxarchive.com/)
+13. [scrnshts](https://scrnshts.club/category/news/)
+14. [webframe](https://webframe.xyz/)
+15. [codewell](https://www.codewell.cc/challenges/608a7e639691700015db16d1)
 
-1. [pixlr](https://pixlr.com/tr/)
-2. [glassmorphism](https://glassmorphism.com/)
-3. [blush](https://blush.design/)
-4. [uidesigndaily](https://www.uidesigndaily.com/)
-5. [uplabs](https://www.uplabs.com/)
-6. [undraw](https://undraw.co/illustrations)
-7. [sketchappsources](https://www.sketchappsources.com/)
-8. [drawkit](https://www.drawkit.io/)
-9. [manypixels](https://www.manypixels.co/gallery)
-10. [lukaszadam](https://lukaszadam.com/illustrations)
-11. [humaaans](https://www.humaaans.com/)
-12. [getavataaars](https://getavataaars.com/)
-13. [freellustrations](https://freellustrations.com/)
-14. [iradesign](https://iradesign.io/)
-15. [uispace](https://uispace.net/)
-16. [icons8](https://icons8.com/illustrations)
-17. [freepik](https://www.freepik.com/)
-18. [vecteezy](https://www.vecteezy.com/)
-19. [tasarimcantasi](https://tasarimcantasi.com/)
-20. [365psd](https://tr.365psd.com/)
-21. [clipart](https://tr.clipart.me/)
-22. [freebiesbug](https://freebiesbug.com/)
-23. [graphicburger](https://graphicburger.com/)
-24. [all-free-download](https://all-free-download.com/)
-25. [seeklogo](https://seeklogo.com/)
-26. [clipartlogo](https://tr.clipartlogo.com/)
-27. [bluevertigo](https://www.bluevertigo.com.ar/)
-28. [storyset](https://storyset.com/)
-29. [inspirationui](http://inspirationui.com/)
-30. [haikei](https://app.haikei.app/)
+<br>
+
+### ![](image/illustrations.svg) İllustrations Klasörü
+Bu klasörde de vektorel çizimlerin olduğu siteleri topladım. Bir çok siteye girdiğinizde de böyle çizimlerin bolca kullanıldığını görürsünüz.
+
+1. [undraw](https://undraw.co/illustrations)
+2. [iradesign](https://iradesign.io/)
+3. [drawkit](https://www.drawkit.io/)
+4. [icons8](https://icons8.com/illustrations)
+5. [humaaans](https://www.humaaans.com/)
+6. [flexiple](https://2.flexiple.com/scale/all-illustrations)
+7. [manypixels](https://www.manypixels.co/gallery)
+8. [freeillustrations.xyz](https://freeillustrations.xyz/)
+9. [illlustrations](https://illlustrations.co/)
+10. [sleekbundle](https://sleekbundle.com/product-category/free/)
+11. [delesign](https://delesign.com/free-designs/graphics)
+12. [isometric](https://isometric.online/)
+13. [error404](https://error404.fun/)
+14. [flexiple](https://2.flexiple.com/scale/home)
+15. [woobro](https://woobro.design/)
+16. [glazestock](https://www.glazestock.com/)
+17. [blush](https://blush.design/)
+18. [lukaszadam](https://lukaszadam.com/illustrations)
+19. [freellustrations.com](https://freellustrations.com/)
+20. [kapustin](https://www.kapustin.co/)
+21. [storyset](https://storyset.com/)
+22. [uplabs](https://www.uplabs.com/illustrations)
 
 <br>
 
