@@ -772,7 +772,6 @@ Evet en güzel klasöre geldik bence. Bu klasörde ise işinizi kolaylaştıraca
 
 <br>
 
-
 ## ![](image/mentor.svg) Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar
 
 1. [designgost](https://www.designgost.com/) : Daha çok tasarımcıların bulunduğu bir mentörlük sitesidir. Verilen mentörlük hizmeti ücretsizdir ve site türkçedir. 
@@ -807,6 +806,7 @@ Dönem freelance olarak çalışma devri atık diyebiliriz özellikle yazılım 
 18. [İcerikbulutu](https://icerikbulutu.com/)
 19. [Nexxt](https://www.nexxt.com/)
 
+<br>
 
 ## ![](image/cloud-server.svg) Yaptığınız projeleri yayına alabileceğiniz ücretsiz siteler
 
@@ -817,7 +817,13 @@ Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain i�
 3. [vercel](https://vercel.com/)
 4. [surge](https://surge.sh/)
 
+<br>
 
+## ![](image/browser-plugins.svg) Tarayıcıda kullandığım eklentiler
 
-
-
+1. [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) : Önceden sitelerde aynı şifreyi kullanırdım. Ama son zamanlarda hacklenen çok fazla site duymaya başladım. Bundan dolayıda artık her sitede birbirinden farklı şifreler kullanmaya başladım. Tabi ku kadar şifreyide kafamda tutamazdım. Bu yüzen de şifrelerimi depolayacak bir depoya ihtiyacım vardı. Bende Bitwarden i buldum. 
+2. [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : Hâlâ ingilizcem o kadar iyi değil. Çeviri için kullandığım bir eklenti. 
+3. [Clear cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) : Tek tıkla her şeyi silmek için kullandığım bir eklenti. Genelde ön belleği silmek için kullanıyorum.
+4. [Fake filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) : Sayfada bulunan inputları fake data ile otomatik doldurmak için kullandığım bir eklenti.
+5. [Colorpick eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) : Sayfadaki renklerin renk kodlarını bulmak için kullandığım bir eklenti.
+6. [What font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn) : Sayfada bulunan yazılarda hangi fontlar kullanıldığını öğrenmek için kullandığım bir eklenti.
