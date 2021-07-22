@@ -1,3 +1,5 @@
+<img align="center" src="image/uyarı.svg" alt="musayazlik" />
+
 # Önce Reklam 😁😁
 
 Reklamlar.... Hanımların dikkatine hem tasarım hemde yazılım makinesi ayağınıza geldi...😂
@@ -840,4 +842,33 @@ Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain i�
 15. [Keywords everywhere keywo](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) : Anaktar kelime önerisi veren bir eklenti.  Kişisel sitememe içerik hazırladığımda çok işime yaradığını söyleyebilirim.
 16. [Vuejs devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd/related) : Vue kodlaması yaparken baya işimi kolaylaştıran bir eklenti.
 17. [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) : React kodlaması yaparken baya işimi kolaylaştıran bir eklenti.
+
+<br>
+<br>
+
+## THE END
+
+Evet reponun sonuna ulaşmış bulunmaktasınız. Bu repoyu hazırlamam iş yoğunluğuna bağlı olarak yaklaşık bir ayımı aldı diyebilirim. Bu arada bu repoyu hazırlarken tarayıcımda bulunan yer imleri kısmınıda küçükte olsa düzenledim diyebilirim. Önceden it bağlasan durmaz durumdaydı.😂 Umarım yani başlayan tasarımcı ve yazılımcı kardeşlerim için güzel bir repo olmuştur. Birde abone olmayı... yok o değildi.🤣 Aşağıdaki bulunan sosyal medya adreslerimden beni takip ederseniz sevinirim.
+
+<p align="left">
+<a href="https://fb.com/musayazlik" target="blank"><img align="center" src="image/social/facebook.svg" alt="musayazlik" width="40" /></a>
+<a href="https://twitter.com/musayazlik" target="blank"><img align="center" src="image/social/twitter.svg" alt="musayazlik" width="40" /></a>
+<a href="https://instagram.com/musa_yazlik/" target="blank"><img align="center" src="image/social/instagram.svg" alt="musayazlik" width="40" /></a>
+<a href="https://linkedin.com/in/musayazlik" target="blank"><img align="center" src="image/social/linkedin.svg" alt="musayazlik" width="40" /></a> 
+</p>
+
+<br>
+<br>
+
+## Uyar Kaldır
+
+Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Bende bu sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmış isem beni uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır. 
+
+<p align="left">
+<a href="https://twitter.com/musayazlik" target="blank"><img align="center" src="image/social/twitter.svg" alt="musayazlik" width="40" /></a>
+<a href="https://instagram.com/musa_yazlik/" target="blank"><img align="center" src="image/social/instagram.svg" alt="musayazlik" width="40" /></a>
+<a href="https://linkedin.com/in/musayazlik" target="blank"><img align="center" src="image/social/linkedin.svg" alt="musayazlik" width="40" /></a>
+<a href="https://t.me/musayazlik" target="blank"><img align="center" src="image/social/telegram.svg" alt="musayazlik" width="40" /></a>
+<a href="mailto:info@musayazlik.com" target="blank"><img align="center" src="image/social/email.svg" alt="musayazlik" width="40" /></a> 
+</p>
 
