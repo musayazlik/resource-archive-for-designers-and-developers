@@ -821,9 +821,23 @@ Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain i�
 
 ## ![](image/browser-plugins.svg) Tarayıcıda kullandığım eklentiler
 
+
+
 1. [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) : Önceden sitelerde aynı şifreyi kullanırdım. Ama son zamanlarda hacklenen çok fazla site duymaya başladım. Bundan dolayıda artık her sitede birbirinden farklı şifreler kullanmaya başladım. Tabi ku kadar şifreyide kafamda tutamazdım. Bu yüzen de şifrelerimi depolayacak bir depoya ihtiyacım vardı. Bende Bitwarden i buldum. 
 2. [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : Hâlâ ingilizcem o kadar iyi değil. Çeviri için kullandığım bir eklenti. 
 3. [Clear cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) : Tek tıkla her şeyi silmek için kullandığım bir eklenti. Genelde ön belleği silmek için kullanıyorum.
 4. [Fake filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) : Sayfada bulunan inputları fake data ile otomatik doldurmak için kullandığım bir eklenti.
 5. [Colorpick eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) : Sayfadaki renklerin renk kodlarını bulmak için kullandığım bir eklenti.
 6. [What font](https://chrome.google.com/webstore/detail/what-font-find-font/djgfpbegnihdgbngpmhjnlchgglngcdn) : Sayfada bulunan yazılarda hangi fontlar kullanıldığını öğrenmek için kullandığım bir eklenti.
+7. [Awesome screenshot screen](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj) : Ekran resmini veya videosunu alabildiğim bir eklenti.
+8. [Tureng dictionary](https://chrome.google.com/webstore/detail/tureng-dictionary/ihedienojfhdahpomfldoejaimefofff) : Biraz ingilizce öğrendiğim söylenebilir. Seçtiğim kelimenin hemen türkçesini ve okunuşunu görebileceğim siteye yönlendiriyor.
+9. [Wakatime](https://chrome.google.com/webstore/detail/wakatime/jnbbnacmeggbgdjgaoojpmhdlkkpblgi?hl=tr) : Acaba kaç dakika kodlama yaptım veya kaç dakika tarayıcıyı kullandım diye merak ettiniz mi? Bu eklenti ile hangi proje üzerinde kaç dakika kodlama yapmışım veya kaç dakika tarayıcıyı kullanmışım görebiliyorum.
+10. [Enhancer for youtube](https://chrome.google.com/webstore/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle) : Youtube üzerinde küçük ayarlamalar yapmak için kullanıyorum.
+11. [Grid ruler](https://chrome.google.com/webstore/detail/grid-ruler/joadogiaiabhmggdifljlpkclnpfncmj) : Klasik bir çetvel eklentisi diyebilirim.
+12. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=tr) : Girdiğiniz sitede hangi web teknolojilerinin kullanıldığını gösteren bir eklenti
+13. [Whatruns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=tr) : Bir yukarıdaki ile aynı işe yarıyor.
+14. [Json viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) : Json verilerin daha düzenli ve göze hoş bir şekilde gözükmesini sağlıyor.
+15. [Keywords everywhere keywo](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) : Anaktar kelime önerisi veren bir eklenti.  Kişisel sitememe içerik hazırladığımda çok işime yaradığını söyleyebilirim.
+16. [Vuejs devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd/related) : Vue kodlaması yaparken baya işimi kolaylaştıran bir eklenti.
+17. [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) : React kodlaması yaparken baya işimi kolaylaştıran bir eklenti.
+
