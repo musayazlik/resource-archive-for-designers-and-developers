@@ -1,5 +1,6 @@
+<br>
 <img align="center" src="image/uyarı.svg" alt="musayazlik" />
-
+<br>
 # Önce Reklam 😁😁
 
 Reklamlar.... Hanımların dikkatine hem tasarım hemde yazılım makinesi ayağınıza geldi...😂
