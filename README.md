@@ -54,7 +54,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 4. [yazilimoji](https://www.instagram.com/yazilimoji/) : Yazılım alanı ile ilgili bilgi ve komik içerikler paylaşan bir hesap.
 5. [yazilimkafasi_](https://www.instagram.com/yazilimkafasi_/) : Yine yazılım alanı ile ilgili küçük kod parçacıkları,bolca kendi ortamını ve motivasyon içeriği paylaşan bir hesap.
 6. [kod.efendi](https://www.instagram.com/kod.efendi/) : Yazılım alanı ile ilgili bilgi içerikleri paylaşan bir hesap.
-7. [kerokod](https://www.instagram.com/kerokod/) : Yazılım alanı ile ilgili bilgi,motivasyon ve komik içerikler paylaşan bir hesap.
+7. [kerokod](https://www.instagram.com/kerokodcom/) : Yazılım alanı ile ilgili bilgi,motivasyon ve komik içerikler paylaşan bir hesap.
 8. [seyyar.tasarimci](https://www.instagram.com/seyyar.tasarimci/) : Freelance olarak çalışan bir tasarımcı. Yaptığı iş ile ilgili bilgi içerikleri paylaşıyor.
 9. [prototurk.official](https://www.instagram.com/prototurk.official/) : Tayfun erbilen i bilmeyen yoktur her halde. 😀 Web yazılım ile ilgili içerikler paylaşıyor.
 10. [tolgahan.webdev](https://www.instagram.com/tolgahan.webdev/) : Web yazılım alanı ile ilgili bolca içerik paylaşan bir hesap.
@@ -64,7 +64,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 14. [kodlarintercumani](https://www.instagram.com/kodlarintercumani/) : Yazılım ile ilgili bilgi içerikleri paylaşan bir hesap.
 15. [btkakademi](https://www.instagram.com/btkakademi/) : Btk akademinin resmi instagram hesabı. Bazen eğitmenler ile de canlı yayın yapılmakta.
 16. [kodmuhendisi](https://www.instagram.com/kodmuhendisi/) : Yazılım ile ilgili bilgi içerikleri paylaşan bir hesap.
-17. [yazilimturk](https://www.instagram.com/yazilimturk/) : Yazılım ile ilgili bilgi ve komik içerikler paylaşan bir hesap.
+17. [yazilimturk](https://www.instagram.com/yazilimturk/) : Bilgi ve mizah odaklı paylaşımlar yapan bir yazılım toplulugudur.
 18. [yazilimtoplulugu](https://www.instagram.com/yazilimtoplulugu/) : Yazılım ile ilgili komik içerikler paylaşan bir hesap.
 19. [yazilimci.genclik](https://www.instagram.com/yazilimci.genclik/) : Yazılım ile ilgili komik,bilgi ve motivasyon içerikleri paylaşan bir hesap.
 20. [kodrehberi](https://www.instagram.com/kodrehberi/) : Yazılım ile ilgili komik,bilgi ve motivasyon içerikleri paylaşan bir hesap.
@@ -99,7 +99,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 ## ![](image/telegram.svg) Üye Olduğum Telegram Grupları
 
 1. [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
-2. kablosuzkedi
+2. [Kablosuzkedi](https://t.me/joinchat/Jg9BelVAU4OspsJtCrRSxA)
 3. [YazılımTürk 🇹🇷](https://t.me/yazilimturkiye)
 4. [Yazılım Eğitim](https://t.me/yazilimegitimlaravel)
 5. [./prototurk](https://t.me/prototurk)
