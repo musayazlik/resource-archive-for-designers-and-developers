@@ -20,7 +20,7 @@ Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyor
 
 
 
-# Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar
+# Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.1)
 
 Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısaca kendimden bahsettikten sonra depo ile ilgili bilgiler vereyim diyorum nasıl olur?😁 İsmim Musa Yazlık. 24 yaşındayım. Erciyes üniversitesi kayseri meslek yüksek okulu Bilgisayar programcılığı mezunuyum. Kendimi 2017 yılının haziran ayından bu yana web tasarım ve web yazılım alanında geliştirmekteyim. Şu anda ise hobi amaçlı figma öğreniyorum ve tasarımlar yapıyorum. Uzmanlık olarakta Web alanının Frontend tarafında kendimi geliştirmeye devam ediyorum. 
 
@@ -41,7 +41,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 8. 🤑 Para kazanabileceğiniz freelance siteler.
 9. ▶️ Takip ettiğim Youtube kanalları.
 10. 🧔 Mentör desteği alabileceğiniz ücretli **ücretsiz** siteler gruplar.
-11. 🤩🤩 Daha daha birçok şey var... 🤩🤩
+11. 🤩 Daha daha birçok şey var... 🤩
 
 <br>
 
@@ -93,6 +93,31 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 43. [coding.beast](https://www.instagram.com/coding.beast/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
 44. [ahmetekincicomtr](https://www.instagram.com/ahmetekincicomtr/) : Dijital içerik üreten bir hesap.
 45. [ravi.graphicdesigner](https://www.instagram.com/ravi.graphicdesigner/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+46. [grafikirfan](https://www.instagram.com/grafikirfan/) : Takip ettiğim bir grafik tasarımcısı.
+47. [talha.creative](https://www.instagram.com/talha.creative/) : Severek takip ettiğim bir UI/UX Tasarımcısı. Güzel içerikler paylaşıyor. Söylemeden geçemeyeceğim.
+48. [busra.ui](https://www.instagram.com/busra.ui/) : Güzel içerikler paylaşan bir tasarımcı.
+49. [developer_nikhil27](https://www.instagram.com/developer_nikhil27/) : Güzel içerikler paylaşan bir frontend developer.
+50. [ankitcreatives](https://www.instagram.com/ankitcreatives/) : Tasarımcılar için takip etmesini önerdiğim bir instagram hesabı.
+51. [designill4u](https://www.instagram.com/designill4u/) : Yine takip ettiğim bir tasarımcı instagram hesabı. 
+52. [thalion_pb](https://www.instagram.com/thalion_pb/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+53. [ariqchowdhury.uiux](https://www.instagram.com/ariqchowdhury.uiux/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+54. [bydanromero](https://www.instagram.com/bydanromero/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+55. [satyam.js](https://www.instagram.com/satyam.js/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
+56. [onlysiamak](https://www.instagram.com/onlysiamak/) : Yazılım ve tasarım ile ilgili içerikler paylaşan bir hesap.
+57. [ui__ux](https://www.instagram.com/ui__ux/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+58. [lubnadev](https://www.instagram.com/lubnadev/) : Web yazılım ile ilgili içerikler paylaşan bir hesap.
+59. [janm_ux](https://www.instagram.com/janm_ux/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+60. [orix.agency](https://www.instagram.com/orix.agency/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+61. [uxcel.app](https://www.instagram.com/uxcel.app/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+62. [michael.filipiuk](https://www.instagram.com/michael.filipiuk/) : Tasarım ile ilgili içerikler paylaşan bir hesap. 
+63. [thewebdeveloper_](https://www.instagram.com/thewebdeveloper_/) : Web yazılım ile ilgili içerikler paylaşan bir hesap.
+64. [themizko](https://www.instagram.com/themizko/) : Web tasarım ile ilgili içerikler paylaşan bir hesap.
+65. [ui.colour](https://www.instagram.com/ui.colour/) : Daha çok renkler ile ilgili içerikler paylaşan bir hesap.
+66. [ransegall](https://www.instagram.com/ransegall/) : Tasarım ile ilgili içerikler paylaşan bir hesap. 
+67. [colours.cafe](https://www.instagram.com/colours.cafe/) : Renk uyumluluğu ile ilgili renk kitleri paylaşan bir hesap.
+68. [uxbrainy](https://www.instagram.com/uxbrainy/) : Tasarım ile ilgili içerikler paylaşan bir hesap. 
+69. [wilycoder](https://www.instagram.com/wilycoder/) : Genelde web yazılım ile ilgili bilgilendirici içerikler paylaşan bir hesap.
+70. [kod_evreni](https://www.instagram.com/kod_evreni/) : Yazılımcı bir abimiz. 😀 Genel anlamda kişisel paylaşımlar yapan bir hesap.
 
 <br>
 
@@ -112,7 +137,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 12. [Yazılım İş İlanları](https://t.me/yazilimisilanlarigrubu)
 13. Vue.js & Nuxt.js
 14. [Yazılımcı Gençlik](https://t.me/yazilimcigenclik)
-15. [#herkesicinudemy](https://t.me/herkesicinudemy)
+15. [#herkesicinegitim](https://t.me/herkesicinegitim)
 16. Codemvia Frontend Devs
 17. [Donanım & Bilgisayar Sorunları](https://t.me/k_donanimyardimlasma)
 18. Askıda Eğitim 📚
@@ -377,6 +402,11 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 9. [Atom Discuss](https://discuss.atom.io/) : Atom kod editörü için bir yardımlaşma sitesi. 
 10. [Meetup](https://www.meetup.com/) : Gerçek hayattaki grup buluşmalarını kolaylaştıran bir sosyal ağ.
 11. [Dev.to](https://dev.to/) : Geliştiricilerin blog yazılarını paylaştığı medium gibi bir blog sitesi. Çok güzel bir site bağımlı oldum siteye. 😁
+12. [Polygram](https://polygram.netlify.app/) : Bir kolajin yapmış olduğu bir yardımlaşma forumu. (ingilizce)
+13. [Spectrum](https://spectrum.chat/explore) : Tasarımcılar ve yazılımcıların belli bir alanda grup oluşturulmuş gruplarda sohbet veya soru sormasını sağlayan bir forum. Tanım pek iyi olmadı ama bakmanızı öneririm.
+14. [Mesuthoca](http://www.mesuthoca.com/) : Mesut hocanın forum sitesi.
+15. [Stackexchange](https://stackexchange.com/) : Bu sitede sorularınızı sorabileceğiniz güzel bir forum sitesi. Ama ingilizce.
+16. [Indiehackers](https://www.indiehackers.com/) : Online projeler geliştiren insanlar topluluğu.
 
 <br>
 
@@ -396,7 +426,11 @@ Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,
 10. [Listium](https://listium.com/@thomasdavis/16783/most-copied-libraries-on-cdnjscom) : Herkesin kendi listesini oluşturabildiği bir site ama ben birisinin en popüler js kütüphanelerinin listesini yaptığı bir liste buldum buraya eklemek istedim.
 11. [Bulma](https://bulma.io/documentation/) : Bootstrap gibi güzel bir css kütüphanesi.
 12. [Reactjs](https://reactjs.org/docs/getting-started.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi.
-13. [Vuejs](https://v3.vuejs.org/guide/introduction.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi. React a göre öğrenilmesi daha bsittir.
+13. [Vuejs](https://v3.vuejs.org/guide/introduction.html) : Javascript öğrendikten sonra mutlaka öğrenilmesi gerekilen bir javascrip kütüphanesi. React a göre öğrenilmesi daha basittir.
+14. [shortcode](https://shortcode.dev/) : Html,css,javascript ve laravel gibi dillerde küçük kod örneklerinin ve anlatılarının olduğu bir site.
+15. [devdocs](https://devdocs.io/) : Yukarıdakinin aynısı ama daha iyisi.
+16. [Goalkicker Book](https://books.goalkicker.com/) : Bir çok yazılım dilinin kitaplarının olduğu bir site. (Betik ve işaretleme dillerininde kitapları bulunuyor Ama hepsi ingilizce)
+17. [Tympanus Css Ceference](https://tympanus.net/codrops/css_reference/) : Css reference sitesidir.
 
 <br>
 
@@ -462,6 +496,20 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 47. [Blobmaker](https://www.blobmaker.app/) : Yukarıdakinin bir değişiği.
 48. [Mehsatek](https://www.mehsatek.com/css-kodlari/)
 49. [Chartscss](https://chartscss.org/) : Grafik yapıları bu css kütüphanesi ile oluşturulmakta. Bir çok admin temalarında bu css kütüpnesini görürsünüz. Çok kullanılan bir kütüphanedir.
+50. [Cailblocks](https://tailblocks.cc/) : Bootstrap 4 ile kodlanmış hazır block yapılarının olduğu bir site.
+51. [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) : Basit bir css kütüphenesi.
+52. [Watercss](https://watercss.kognise.dev/) : Aşırı basit bir css stilleri koleksiyonudur.
+53. [Headlessui](https://headlessui.dev/) : Hem react hemde vue olarak kodlamasını alabileceğiz ui bileşenlerin olduğu bir site.
+54. [Magic Of Css](https://adamschwartz.co/magic-of-css/) : Css ile ilgili içerikler olan küçük bir site.
+55. [Flexboxpatterns](https://www.flexboxpatterns.com/) : Küçük flexbox kalıplarının olduğu bir sitedir.
+56. [Elastic UI](https://elastic.github.io/eui/#/) : Şimdi baktımda bootstraptan çok daha güzel bir kütüphane. 😁
+57. [You Need To Know Css](https://lhammer.cn/You-need-to-know-css/#/) : Css ile ilgili püf noktalar veren bir site.
+58. [Animatopy](https://sarthology.github.io/Animatopy/) : Animatecss ile aynı olan bir site. 
+59. [Animatelo](https://gibbok.github.io/animatelo/) : Yukarıdaki ile aynı.
+60. [All Animation](https://all-animation.github.io/) : 3D güzel animasyonlar verebileceğiniz bir site.
+61. [Cssfx](https://cssfx.netlify.app/) : Her türlü animasyon var.😁
+62. [Spinkit](https://tobiasahlin.com/spinkit/) : Küçük bir css animasyon kiti.
+
 
 <br>
 
@@ -480,20 +528,80 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 11. [Aurelia](http://aurelia.io/)
 12. [D3js](https://d3js.org/)
 13. [Taucharts](https://taucharts.com/)
-14. [Animejs](https://animejs.com/documentation/#domAttributes)
+14. [Animejs](https://animejs.com/)
 15. [Fancyapps](http://fancyapps.com/fancybox/3/)
-16. [Reactjs](https://reactjs.org/) : Ben react bilmiyorum diyen bir senior front end developer yoktur her halde. Popüler bir javascript kütüphanesi.
-17. [Jarallax](https://free.nkdev.info/jarallax/) : Arka plan görüntüleri için pürüzsüz paralaks kaydırma efekti verebileceğiniz bir kütüphane.
-18. [Aquarelle](https://github.com/Ramotion/aquarelle)
-19. [FunnyText](https://alvarotrigo.com/funnyText/) : Yazılar üzerinde güzel animasyonlar yapabileceğiniz bir kütüphane.
-20. [FullPage](https://alvarotrigo.com/fullPage/) : Full sayfa üzerinde güzel animasyonlar ile geçiş yapmak için kullanılan bir kütüphane.
-21. [PagePiling](https://alvarotrigo.com/pagePiling/) : Yukarıdaki ile aynı işi yapıyor.
-22. [MultiScroll](https://alvarotrigo.com/multiScroll/#third) 
-23. [Vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
-24. [Jquerypp](http://jquerypp.com/)
-25. [Anijs](https://anijs.github.io/)
-26. [Bouncejs](http://bouncejs.com/)
-27. [Vuejs](https://vuejs.org/) : React ta göre öğrenmesi daha basit olan bir javascript kütüphanesi.
+16. [Jarallax](https://free.nkdev.info/jarallax/) : Arka plan görüntüleri için pürüzsüz paralaks kaydırma efekti verebileceğiniz bir kütüphane.
+17. [Aquarelle](https://github.com/Ramotion/aquarelle)
+18. [FunnyText](https://alvarotrigo.com/funnyText/) : Yazılar üzerinde güzel animasyonlar yapabileceğiniz bir kütüphane.
+19. [FullPage](https://alvarotrigo.com/fullPage/) : Full sayfa üzerinde güzel animasyonlar ile geçiş yapmak için kullanılan bir kütüphane.
+20. [PagePiling](https://alvarotrigo.com/pagePiling/) : Yukarıdaki ile aynı işi yapıyor.
+21. [MultiScroll](https://alvarotrigo.com/multiScroll/#third) 
+22. [Vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
+23. [Jquerypp](http://jquerypp.com/)
+24. [Anijs](https://anijs.github.io/)
+25. [Bouncejs](http://bouncejs.com/)
+26. [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/) : Resmin üzerine tıklanınca popup olarak açılmasını sağlayan bir kütüphane. 
+27. [Apexcharts](https://apexcharts.com/)
+28. [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/)
+29. [Urlcat](https://urlcat.dev/#/)
+30. [Slick](https://kenwheeler.github.io/slick/)
+31. [Modernizr](https://modernizr.com/)
+32. [Axios](https://axios-http.com/)
+33. [Webpack Boilerplate](https://github.com/taniarascia/webpack-boilerplate)
+34. [Eggjs](https://eggjs.org/)
+35. [Cypress](https://docs.cypress.io/)
+36. [Echarts](https://echarts.apache.org/)
+37. [Editorjs](https://editorjs.io/)
+38. [Revealjs](https://revealjs.com/)
+39. [Slidev](https://sli.dev/)
+40. [Keystonejs](https://keystonejs.com/)
+41. [Crank.js](https://crank.js.org/)
+42. [Sweetalert](https://sweetalert.js.org/)
+43. [Serverless](https://serverless-stack.com/)
+44. [Prisma](https://www.prisma.io/)
+45. [Layrjs](https://layrjs.com/)
+46. [Alephjs](https://alephjs.org/)
+47. [Lando](https://lando.dev/)
+48. [Tensorflow](https://www.tensorflow.org/js/)
+49. [Vitejs](https://vitejs.dev/)
+50. [Snowpack](https://www.snowpack.dev/)
+51. [Esbuild](https://esbuild.github.io/)
+52. [Animo.js](https://animo.js.org/)
+53. [Micron.js](https://webkul.github.io/micron/)
+54. [Astro](https://astro.build/)
+55. [Handsfree.js](https://handsfree.js.org/)
+56. [Flicking](https://naver.github.io/egjs-flicking/docs/)
+57. [H3manth](https://h3manth.com/ES2021/)
+58. [Slideout.js](https://slideout.js.org/)
+59. [Svelte](https://svelte.dev/)
+60. [Stenciljs](https://stenciljs.com/)
+61. [Alpinejs](https://alpinejs.dev/)
+62. [Emberjs](https://emberjs.com/)
+63. [Linaria](https://linaria.dev/)
+64. [zooming](https://kingdido999.github.io/zooming/)
+65. [parceljs](https://parceljs.org/)
+66. [Unlayer Embed](https://unlayer.com/embed)
+
+<br>
+
+#### ![](image/vuejs.svg) Vue.js Klasörü
+
+1. [Vuejs](https://vuejs.org/) : React ta göre öğrenmesi daha basit olan bir javascript kütüphanesi.
+2. [Nuxtjs](https://nuxtjs.org/)
+
+<br>
+
+#### ![](image/reactjs.svg) React.js Klasörü
+
+1. [Reactjs](https://tr.reactjs.org/) : Çok kullanılan popüler bir javascript kütüphanesidir.
+2. [Create React App](https://create-react-app.dev/)
+3. [Chakra Ui](https://chakra-ui.com/)
+4. [React Spring](https://react-spring.io/)
+5. [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
+6. [Reactstrap](https://reactstrap.github.io/)
+7. [React Bootstrap](https://react-bootstrap.github.io/)
+8. [Nextjs](https://nextjs.org/) 
+9. [React Query](https://react-query.tanstack.com/)
 
 <br>
 
