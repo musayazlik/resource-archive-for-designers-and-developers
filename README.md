@@ -18,17 +18,16 @@ Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyor
 <a href="https://superpeer.com/musayazlik" target="blank"><img align="center" src="image/social/superpeer.svg" alt="musayazlik" width="40" /></a>  
 </p>
 
-
-
 # Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.1)
 
-Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısaca kendimden bahsettikten sonra depo ile ilgili bilgiler vereyim diyorum nasıl olur?😁 İsmim Musa Yazlık. 24 yaşındayım. Erciyes üniversitesi kayseri meslek yüksek okulu Bilgisayar programcılığı mezunuyum. Kendimi 2017 yılının haziran ayından bu yana web tasarım ve web yazılım alanında geliştirmekteyim. Şu anda ise hobi amaçlı figma öğreniyorum ve tasarımlar yapıyorum. Uzmanlık olarakta Web alanının Frontend tarafında kendimi geliştirmeye devam ediyorum. 
+Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısaca kendimden bahsettikten sonra depo ile ilgili bilgiler vereyim diyorum nasıl olur?😁 İsmim Musa Yazlık. 24 yaşındayım. Erciyes üniversitesi kayseri meslek yüksek okulu Bilgisayar programcılığı mezunuyum. Kendimi 2017 yılının haziran ayından bu yana web tasarım ve web yazılım alanında geliştirmekteyim. Şu anda ise hobi amaçlı figma öğreniyorum ve tasarımlar yapıyorum. Uzmanlık olarakta Web alanının Frontend tarafında kendimi geliştirmeye devam ediyorum.
 
-Şimdi depo ile ilgili bilgi verirsem. Dediğim gibi 2017 yılının haziran ayından bu yana web alanı ile uğraşıyorum. Bu geçen 4 yılda çok fazla araştırma yaptım,kaynak topladım. Tabi bu kaynakları şimdiye kadar kendim faydalanmak amaçlı topladığım için pek bir düzenli topladığım söylenemez. Bu depo ile hem o düzeni oturtturmak istiyorum hemde benim sahip olduğum kaynaklara genç yazılımcılarında kolay bir şekilde ulaşmasını istiyorum. 
+Şimdi depo ile ilgili bilgi verirsem. Dediğim gibi 2017 yılının haziran ayından bu yana web alanı ile uğraşıyorum. Bu geçen 4 yılda çok fazla araştırma yaptım,kaynak topladım. Tabi bu kaynakları şimdiye kadar kendim faydalanmak amaçlı topladığım için pek bir düzenli topladığım söylenemez. Bu depo ile hem o düzeni oturtturmak istiyorum hemde benim sahip olduğum kaynaklara genç yazılımcılarında kolay bir şekilde ulaşmasını istiyorum.
 
 <br>
 
 ## Bu depoda ne gibi şeyler olacak?
+
 Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak olacak desem çok sade bir cevap olur sanırım. Ben bir kaç madde ile olacaklardan bahsedeyim.
 
 1. 🏫 Udemy eğitimlerini çekiliş ile veren veya direk olarak ücretsiz olarak yayınlayan instagram hesapları ve telegram grupları. (Ben bu sayede 570 den fazla eğitime ücretsiz sahip oldum.)
@@ -45,14 +44,15 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## ![](image/instagram.svg)  Takip Ettiğim İnstagram Hesapları
+## ![](image/instagram.svg) Takip Ettiğim İnstagram Hesapları
+
 Ücretsiz udemy eğitimlerine takip ettiğim instagram hesaplarından ve üye olduğum telegram gruplarından elde ediyorum. Takip ettiğim instagram hesaplarının çekilişlerine katılmıyorum sadece hikayelerinde ücretsiz bir kurs paylaştıklarında hemen kapıyorum.😅 Tabi sadece udemy kursu kapmak için takip etmiyorum. Bu takip ettiğim hesaplar web tasarım,web yazılım veya girişimcilik ile ilgili paylaşımlarda yapıyorlar. Onlarda hoşuma gidiyor. Normalde artık instagram hesabımı aktif bir şekilde kullanmıyorum ama isterseniz [buraya](https://www.instagram.com/musa_yazlik/) tıklayarak beni takip edebilirsiniz.😁
 
-1. [workshoperscomm](https://www.instagram.com/workshoperscomm/) : Bolca ücretsiz ve sertifikalı online eğitim veren bir kuruluş. 
+1. [workshoperscomm](https://www.instagram.com/workshoperscomm/) : Bolca ücretsiz ve sertifikalı online eğitim veren bir kuruluş.
 2. [girisimcikafasi](https://www.instagram.com/girisimcikafasi/) : Girişimcilikle ilgili motivasyon ve öneri içerikleri paylaşan bir hesap.
 3. [algoritmikfikir](https://www.instagram.com/algoritmikfikir/) : Yazılım alanı ile ilgili genelde bilgi içerikleri paylaşan bir hesap.
 4. [yazilimoji](https://www.instagram.com/yazilimoji/) : Yazılım alanı ile ilgili bilgi ve komik içerikler paylaşan bir hesap.
-5. [yazilimkafasi_](https://www.instagram.com/yazilimkafasi_/) : Yine yazılım alanı ile ilgili küçük kod parçacıkları,bolca kendi ortamını ve motivasyon içeriği paylaşan bir hesap.
+5. [yazilimkafasi\_](https://www.instagram.com/yazilimkafasi_/) : Yine yazılım alanı ile ilgili küçük kod parçacıkları,bolca kendi ortamını ve motivasyon içeriği paylaşan bir hesap.
 6. [kod.efendi](https://www.instagram.com/kod.efendi/) : Yazılım alanı ile ilgili bilgi içerikleri paylaşan bir hesap.
 7. [kerokod](https://www.instagram.com/kerokodcom/) : Yazılım alanı ile ilgili bilgi,motivasyon ve komik içerikler paylaşan bir hesap.
 8. [seyyar.tasarimci](https://www.instagram.com/seyyar.tasarimci/) : Freelance olarak çalışan bir tasarımcı. Yaptığı iş ile ilgili bilgi içerikleri paylaşıyor.
@@ -79,17 +79,17 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 29. [interfacely](https://www.instagram.com/interfacely/) : Tasarım örnekleri ve o örnekte kullanılan yapılar ile ilgili içerikler paylaşan bir hesap.
 30. [ux.ferdicildiz](https://www.instagram.com/ux.ferdicildiz/) : Uzman bir tasarımcı. Youtube kanalına bakmanızı öneririm.
 31. [designspective](https://www.instagram.com/designspective/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
-32. [uidacozeriz](https://www.instagram.com/uidacozeriz/) : Bazı firmaların ui tasarımlarını inceleyen bir hesap. Youtube kanallarına bakmanızı öneririm. 
+32. [uidacozeriz](https://www.instagram.com/uidacozeriz/) : Bazı firmaların ui tasarımlarını inceleyen bir hesap. Youtube kanallarına bakmanızı öneririm.
 33. [afshint2y](https://www.instagram.com/afshint2y/) : Severek takip ettiğim bir grafik tasarımcısı. İconset lerini kullanıyorum bolca tasarımlarımda.
 34. [amirbaqian](https://www.instagram.com/amirbaqian/) : Bir üsteki ile aynı.
 35. [awsmd_com](https://www.instagram.com/awsmd_com/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 36. [ui_gradient](https://www.instagram.com/ui_gradient/) : Tasarım ile ilgili bilgi içerikleri paylaşan bir hesap.
-37. [ademilter](https://www.instagram.com/ademilter/) : Severek takip ettiğim bir yazılımcı. İnstagram hesabını kişisel içerikler paylaşmak için kullanıyor. Youtube kanalına bakmanızı öneririm. 
+37. [ademilter](https://www.instagram.com/ademilter/) : Severek takip ettiğim bir yazılımcı. İnstagram hesabını kişisel içerikler paylaşmak için kullanıyor. Youtube kanalına bakmanızı öneririm.
 38. [ux.base](https://www.instagram.com/ux.base/) : UX ile ilgili bilgi içerikleri paylaşan bir hesap.
 39. [uxbucket](https://www.instagram.com/uxbucket/) : UX ile ilgili bilgi içerikleri paylaşan bir hesap.
 40. [qclaydesign](https://www.instagram.com/qclaydesign/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
-41. [uiuxdailytips](https://www.instagram.com/uiuxdailytips/) : UI ve UX ile ilgili bilgiler paylaşan bir  hesap.
-42. [coding_gyan_](https://www.instagram.com/coding_gyan_/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
+41. [uiuxdailytips](https://www.instagram.com/uiuxdailytips/) : UI ve UX ile ilgili bilgiler paylaşan bir hesap.
+42. [coding*gyan*](https://www.instagram.com/coding_gyan_/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
 43. [coding.beast](https://www.instagram.com/coding.beast/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
 44. [ahmetekincicomtr](https://www.instagram.com/ahmetekincicomtr/) : Dijital içerik üreten bir hesap.
 45. [ravi.graphicdesigner](https://www.instagram.com/ravi.graphicdesigner/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
@@ -98,24 +98,24 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 48. [busra.ui](https://www.instagram.com/busra.ui/) : Güzel içerikler paylaşan bir tasarımcı.
 49. [developer_nikhil27](https://www.instagram.com/developer_nikhil27/) : Güzel içerikler paylaşan bir frontend developer.
 50. [ankitcreatives](https://www.instagram.com/ankitcreatives/) : Tasarımcılar için takip etmesini önerdiğim bir instagram hesabı.
-51. [designill4u](https://www.instagram.com/designill4u/) : Yine takip ettiğim bir tasarımcı instagram hesabı. 
+51. [designill4u](https://www.instagram.com/designill4u/) : Yine takip ettiğim bir tasarımcı instagram hesabı.
 52. [thalion_pb](https://www.instagram.com/thalion_pb/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 53. [ariqchowdhury.uiux](https://www.instagram.com/ariqchowdhury.uiux/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 54. [bydanromero](https://www.instagram.com/bydanromero/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 55. [satyam.js](https://www.instagram.com/satyam.js/) : Yazılım ile ilgili içerikler paylaşan bir hesap.
 56. [onlysiamak](https://www.instagram.com/onlysiamak/) : Yazılım ve tasarım ile ilgili içerikler paylaşan bir hesap.
-57. [ui__ux](https://www.instagram.com/ui__ux/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+57. [ui\_\_ux](https://www.instagram.com/ui__ux/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 58. [lubnadev](https://www.instagram.com/lubnadev/) : Web yazılım ile ilgili içerikler paylaşan bir hesap.
 59. [janm_ux](https://www.instagram.com/janm_ux/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 60. [orix.agency](https://www.instagram.com/orix.agency/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 61. [uxcel.app](https://www.instagram.com/uxcel.app/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
-62. [michael.filipiuk](https://www.instagram.com/michael.filipiuk/) : Tasarım ile ilgili içerikler paylaşan bir hesap. 
-63. [thewebdeveloper_](https://www.instagram.com/thewebdeveloper_/) : Web yazılım ile ilgili içerikler paylaşan bir hesap.
+62. [michael.filipiuk](https://www.instagram.com/michael.filipiuk/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
+63. [thewebdeveloper\_](https://www.instagram.com/thewebdeveloper_/) : Web yazılım ile ilgili içerikler paylaşan bir hesap.
 64. [themizko](https://www.instagram.com/themizko/) : Web tasarım ile ilgili içerikler paylaşan bir hesap.
 65. [ui.colour](https://www.instagram.com/ui.colour/) : Daha çok renkler ile ilgili içerikler paylaşan bir hesap.
-66. [ransegall](https://www.instagram.com/ransegall/) : Tasarım ile ilgili içerikler paylaşan bir hesap. 
+66. [ransegall](https://www.instagram.com/ransegall/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 67. [colours.cafe](https://www.instagram.com/colours.cafe/) : Renk uyumluluğu ile ilgili renk kitleri paylaşan bir hesap.
-68. [uxbrainy](https://www.instagram.com/uxbrainy/) : Tasarım ile ilgili içerikler paylaşan bir hesap. 
+68. [uxbrainy](https://www.instagram.com/uxbrainy/) : Tasarım ile ilgili içerikler paylaşan bir hesap.
 69. [wilycoder](https://www.instagram.com/wilycoder/) : Genelde web yazılım ile ilgili bilgilendirici içerikler paylaşan bir hesap.
 70. [kod_evreni](https://www.instagram.com/kod_evreni/) : Yazılımcı bir abimiz. 😀 Genel anlamda kişisel paylaşımlar yapan bir hesap.
 
@@ -153,7 +153,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## ![](image/youtube.svg)  Abone Olduğum Youtube Kanalları
+## ![](image/youtube.svg) Abone Olduğum Youtube Kanalları
 
 Güzel bir bölüme geldik. Siz yapıyor musunuz bilmiyorum ama ben her hafta 1 saatimi "Html,css,javascript design" gibi kelimeleri kullanarak youtube da yeni kanallar bulmaya çalışıyorum. Bulduklarıma da abone oluyorum. Ben yaklaşık 100 kanala abone olmuşumdur diye düşünüyordum. Ama tamı tamına 224 kanala abone olmuşum. Vay canına 😅. Bu kanalların Web tasarım ve Web yazılım ile ilgili kanallar. Ama aralarında farklı kanallarda var. Her zaman yazılım olmuyor birazda eğlenmek şart. 😁
 
@@ -385,7 +385,8 @@ Güzel bir bölüme geldik. Siz yapıyor musunuz bilmiyorum ama ben her hafta 1 
 <br>
 
 ## Bookmarks (Yer İşaretleri)
-Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken bazı siteler oluyordu. Herkesin yaptığı gibi bende tarayıcının yer işaretleri (yer imleri) kısmına kayıt ederim. Son günlerde yer imleri klasörler halinde düzenledim. Ama klasörler içerisine atmış olduğum siteleri pekte düzenlediğimi söyleyemem. Burada ise yer imlere kaydetmiş olduğum siteleri hem sizler ile paylaşacağım hemde klasörlerin içerisini düzenlemiş olacağım. 
+
+Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken bazı siteler oluyordu. Herkesin yaptığı gibi bende tarayıcının yer işaretleri (yer imleri) kısmına kayıt ederim. Son günlerde yer imleri klasörler halinde düzenledim. Ama klasörler içerisine atmış olduğum siteleri pekte düzenlediğimi söyleyemem. Burada ise yer imlere kaydetmiş olduğum siteleri hem sizler ile paylaşacağım hemde klasörlerin içerisini düzenlemiş olacağım.
 
 <br>
 
@@ -395,11 +396,11 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 2. [stackoverflow](https://stackoverflow.com/) : Bilgisayar programcılığı ile ilgili kullanıcı odaklı soru cevap sitesi.
 3. [Kommunity](https://kommunity.com/) : Etkinliklere katılmak istiyorsunuz ama bulamıyorm musunuz? Aha tam yeri.
 4. [Laravel Türkiye Forumları](https://laravel.gen.tr/) : Laravel Framework u için kurulmuş bir yardımlaşma sitesi.
-5. [Wordpress Development](https://wordpress.stackexchange.com/) : Wordpress geliştiricilerin yardımlaşma yeri. 
+5. [Wordpress Development](https://wordpress.stackexchange.com/) : Wordpress geliştiricilerin yardımlaşma yeri.
 6. [Kod Mühendisleri Topluluğu](https://kodmuhendisleri.com/) : Dili Türkçe olan yazılılımcıların yardımlaşma sitesi.
-7. [WMaracı](https://wmaraci.com/) : Webmaster yardımlaşma sitesi. 
+7. [WMaracı](https://wmaraci.com/) : Webmaster yardımlaşma sitesi.
 8. [R10](https://www.r10.net/) : Herkesin üye olması gerektiği bir site. Ama tabi üyelikler davet kodu ile mümkün.
-9. [Atom Discuss](https://discuss.atom.io/) : Atom kod editörü için bir yardımlaşma sitesi. 
+9. [Atom Discuss](https://discuss.atom.io/) : Atom kod editörü için bir yardımlaşma sitesi.
 10. [Meetup](https://www.meetup.com/) : Gerçek hayattaki grup buluşmalarını kolaylaştıran bir sosyal ağ.
 11. [Dev.to](https://dev.to/) : Geliştiricilerin blog yazılarını paylaştığı medium gibi bir blog sitesi. Çok güzel bir site bağımlı oldum siteye. 😁
 12. [Polygram](https://polygram.netlify.app/) : Bir kolajin yapmış olduğu bir yardımlaşma forumu. (ingilizce)
@@ -411,8 +412,8 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 <br>
 
 ### ![](image/document.svg) Document Klasörü
-Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,node.js ve php ile ilgili kütüphanelerin dokümantasyon sayfalarını ve dillere ait hoşuma giden siteleri tutmaya başladım. 
 
+Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,node.js ve php ile ilgili kütüphanelerin dokümantasyon sayfalarını ve dillere ait hoşuma giden siteleri tutmaya başladım.
 
 1. [W3schools](https://www.w3schools.com/) : Web yazılımcıların mutlaka bir kez de olsa bakmış olduğu müthiş bir site.
 2. [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/) : Bootstrap css kütüphenesinin dokümantasyon sayfası.
@@ -435,6 +436,7 @@ Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,
 <br>
 
 ### ![](image/html.svg) Html Klasörü
+
 Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yinede bu dokümantasyona bu klasörün içerisinde bulunan siteleride eklemek istedim.
 
 1. [W3schools](https://www.w3schools.com/tags/default.asp) : Anlatmaya gerek yok görüyorsuuzz. 😂
@@ -445,6 +447,7 @@ Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yi
 <br>
 
 ### ![](image/css.svg) Css Klasörü
+
 Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben biraz daha UI bakışlı birisiyim bu yüzden css ile ilgili çok fazla site toplamışım. Birazda onlara bakalım. Bu klasörde bolca kütüphane biliktirmişim mutlaka bilmediğiniz bir css kütüphanesi vardır.😀
 
 1. [Carbon](https://carbon.now.sh/) : Mutlaka görmüşsünüzdür süslü bir şekillde yazmış olduğu kodları paylaşırlar. İşte onu bu sitenden yapıyorlar. 😁
@@ -454,11 +457,11 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 5. [Cssportal](https://www.cssportal.com/css-clip-path-generator/)
 6. [Justinaguilar](http://www.justinaguilar.com/animations/index.html)
 7. [Animate](https://animate.style/) : Çok kullanılan bir css animasyon kütüphanesi.
-8. [Csslayout](https://csslayout.io/) : Bu siteye mutlaka bakınız. Bilmediğiniz bir çok yapının ismini öğrenmiş olursunuz. 
+8. [Csslayout](https://csslayout.io/) : Bu siteye mutlaka bakınız. Bilmediğiniz bir çok yapının ismini öğrenmiş olursunuz.
 9. [Materializecss](https://materializecss.com/)
 10. [Malven](https://grid.malven.co/) : Css deki grip yapısı ile ilgili bilgilendirici bir site.
 11. [Autoprefixer](https://autoprefixer.github.io/) : Css de yazdığınız kodların her tarayıcıda uyumu olarak çalışabilmesi için bazı eklemeler yapmanız gerekiyor onu sizin yerinize yapan bir site. Autoprefixer bir araştırın isterseniz.
-12. [Normalize](https://necolas.github.io/normalize.css/) : Her tarayıcıda html kodların bazı default ayarlamaları vardı. Bu kütüphane onu her tarayıcıda eşit olmasını sağlıyor. 
+12. [Normalize](https://necolas.github.io/normalize.css/) : Her tarayıcıda html kodların bazı default ayarlamaları vardı. Bu kütüphane onu her tarayıcıda eşit olmasını sağlıyor.
 13. [Placeholder Loading](https://zalog.ro/placeholder-loading/)
 14. [Foundation](https://get.foundation/)
 15. [Minicss](https://minicss.org/)
@@ -469,7 +472,7 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 20. [Semantic-ui](https://semantic-ui.com/)
 21. [Minstyle](https://minstyle.io/)
 22. [Getmdl](https://getmdl.io/)
-23. [Minireset](http://jgthms.com/minireset.css/) : Normalize gibi ama bu kütüphane bütün ayarları sıfırlıyor. 
+23. [Minireset](http://jgthms.com/minireset.css/) : Normalize gibi ama bu kütüphane bütün ayarları sıfırlıyor.
 24. [Hover](https://ianlunn.github.io/Hover/) : Hover css kütüphanesi.
 25. [Magic](https://www.minimamente.com/project/magic/)
 26. [Csshake](https://elrumordelaluz.github.io/csshake/)
@@ -492,7 +495,7 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 43. [Jessepollak-card](https://github.com/jessepollak/card)
 44. [Web-grid](https://webjeda.com/web-grid/)
 45. [Bootstrap-magic](https://pikock.github.io/bootstrap-magic/) : Bootstrap 4 css kütüphanesini kullanmak istiyorsunuz ama içerisinde değişiklikler yaptıktan sonra kullanmak istiyorsanız bu site size onu yapmanız için yardımcı oluyor. Hatta daha fazlasını yapıyor.
-46. [Getwaves](https://getwaves.io/) : Bazı web sitelerinde dalgalı yapılar görmüşsünüzdür. Sizde onu Photoshop da yapmışsınızdır. İşte ona hiç gerek yok. Bu site size o dalgalı yapıları oluşturmanız için yardımcı oluyor. 
+46. [Getwaves](https://getwaves.io/) : Bazı web sitelerinde dalgalı yapılar görmüşsünüzdür. Sizde onu Photoshop da yapmışsınızdır. İşte ona hiç gerek yok. Bu site size o dalgalı yapıları oluşturmanız için yardımcı oluyor.
 47. [Blobmaker](https://www.blobmaker.app/) : Yukarıdakinin bir değişiği.
 48. [Mehsatek](https://www.mehsatek.com/css-kodlari/)
 49. [Chartscss](https://chartscss.org/) : Grafik yapıları bu css kütüphanesi ile oluşturulmakta. Bir çok admin temalarında bu css kütüpnesini görürsünüz. Çok kullanılan bir kütüphanedir.
@@ -504,12 +507,11 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 55. [Flexboxpatterns](https://www.flexboxpatterns.com/) : Küçük flexbox kalıplarının olduğu bir sitedir.
 56. [Elastic UI](https://elastic.github.io/eui/#/) : Şimdi baktımda bootstraptan çok daha güzel bir kütüphane. 😁
 57. [You Need To Know Css](https://lhammer.cn/You-need-to-know-css/#/) : Css ile ilgili püf noktalar veren bir site.
-58. [Animatopy](https://sarthology.github.io/Animatopy/) : Animatecss ile aynı olan bir site. 
+58. [Animatopy](https://sarthology.github.io/Animatopy/) : Animatecss ile aynı olan bir site.
 59. [Animatelo](https://gibbok.github.io/animatelo/) : Yukarıdaki ile aynı.
 60. [All Animation](https://all-animation.github.io/) : 3D güzel animasyonlar verebileceğiniz bir site.
 61. [Cssfx](https://cssfx.netlify.app/) : Her türlü animasyon var.😁
 62. [Spinkit](https://tobiasahlin.com/spinkit/) : Küçük bir css animasyon kiti.
-
 
 <br>
 
@@ -520,7 +522,7 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 3. [Chartjs](https://www.chartjs.org/) : Veri görselleştirme için 8 grafik türünü destekleyen ücretsiz bir açık kaynaklı JavaScript kütüphanesidir: bar, çizgi, alan, pasta, kabarcık, radar, polar ve dağılım.
 4. [Sigmajs](http://sigmajs.org/) : Grafik çizimine adanmış bir JavaScript kütüphanesi.
 5. [Pizza-pie-charts](https://zurb.com/playground/pizza-pie-charts) : Chartjs e benzer bir kütüphane.
-6. [Electronjs](https://www.electronjs.org/) : Javascript kullanarak masaüstü program yapılabilir mi diye soranlar için visual studio code bu javascript kütüphanesi kullanılarak yapılmış.  
+6. [Electronjs](https://www.electronjs.org/) : Javascript kullanarak masaüstü program yapılabilir mi diye soranlar için visual studio code bu javascript kütüphanesi kullanılarak yapılmış.
 7. [Hammerjs](https://hammerjs.github.io/) : Nesneyi sürükleme bırakma işlemlerini yapabileceğiniz bir kütüphane. Üstelik mobil uyumlu.
 8. [Sortable](http://sortablejs.github.io/Sortable/) : Hammerjs gibi bir kütüphane.
 9. [Swiperjs](https://swiperjs.com/) : Owlcarousel2 benzer bir kütüphane ama daha iyisi.
@@ -535,12 +537,12 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 18. [FunnyText](https://alvarotrigo.com/funnyText/) : Yazılar üzerinde güzel animasyonlar yapabileceğiniz bir kütüphane.
 19. [FullPage](https://alvarotrigo.com/fullPage/) : Full sayfa üzerinde güzel animasyonlar ile geçiş yapmak için kullanılan bir kütüphane.
 20. [PagePiling](https://alvarotrigo.com/pagePiling/) : Yukarıdaki ile aynı işi yapıyor.
-21. [MultiScroll](https://alvarotrigo.com/multiScroll/#third) 
+21. [MultiScroll](https://alvarotrigo.com/multiScroll/#third)
 22. [Vanilla-tilt.js](https://micku7zu.github.io/vanilla-tilt.js/)
 23. [Jquerypp](http://jquerypp.com/)
 24. [Anijs](https://anijs.github.io/)
 25. [Bouncejs](http://bouncejs.com/)
-26. [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/) : Resmin üzerine tıklanınca popup olarak açılmasını sağlayan bir kütüphane. 
+26. [Magnific Popup](https://dimsemenov.com/plugins/magnific-popup/) : Resmin üzerine tıklanınca popup olarak açılmasını sağlayan bir kütüphane.
 27. [Apexcharts](https://apexcharts.com/)
 28. [Mapbox](https://docs.mapbox.com/mapbox-gl-js/api/)
 29. [Urlcat](https://urlcat.dev/#/)
@@ -600,7 +602,7 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 5. [React Flip Toolkit](https://github.com/aholachek/react-flip-toolkit)
 6. [Reactstrap](https://reactstrap.github.io/)
 7. [React Bootstrap](https://react-bootstrap.github.io/)
-8. [Nextjs](https://nextjs.org/) 
+8. [Nextjs](https://nextjs.org/)
 9. [React Query](https://react-query.tanstack.com/)
 
 <br>
@@ -621,7 +623,7 @@ Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılı
 
 ### ![](image/icons.svg) Icon Klasörü
 
-Her tasarımcı mutlaka kullandığı favori bir ikon seti vardır. Benimde favorim şu anda iconsax icon seti. Tasarımcı iconların tasarımını baya ince ayarlara göre hazırlamış. Neyse bu klasörde de bulabilildiğim bütün icon setlerini veya iconları bulabileceğiniz siteleri depoladım. 
+Her tasarımcı mutlaka kullandığı favori bir ikon seti vardır. Benimde favorim şu anda iconsax icon seti. Tasarımcı iconların tasarımını baya ince ayarlara göre hazırlamış. Neyse bu klasörde de bulabilildiğim bütün icon setlerini veya iconları bulabileceğiniz siteleri depoladım.
 
 1. [iconfinder](https://www.iconfinder.com/)
 2. [flaticon](https://www.flaticon.com/)
@@ -655,7 +657,7 @@ Her tasarımcı mutlaka kullandığı favori bir ikon seti vardır. Benimde favo
 
 ### ![](image/fonts.svg) Font Klasörü
 
-Şu anda en popüler font sitesi google font hatta ben sadece google fontta bulunan fontları kodlamalarımda kullanıyorum. Ama bu klasörede gerekli gereksiz bütün font sitelerini eklemişim. 
+Şu anda en popüler font sitesi google font hatta ben sadece google fontta bulunan fontları kodlamalarımda kullanıyorum. Ama bu klasörede gerekli gereksiz bütün font sitelerini eklemişim.
 
 1. [Google Font](https://fonts.google.com/)
 2. [fontstruct](https://fontstruct.com/)
@@ -770,6 +772,7 @@ Bu klasörde de projelerinizde kullanabileceğiniz video sitelerini depoladım. 
 <br>
 
 ### ![](image/design.svg) Design Klasörü
+
 Bu klasörde de tasarım ile ilgili ilham alabileceğiniz siteleri topladım. Toplamayada devam ediyorum.
 
 1. [dribbble](https://dribbble.com/)
@@ -791,6 +794,7 @@ Bu klasörde de tasarım ile ilgili ilham alabileceğiniz siteleri topladım. To
 <br>
 
 ### ![](image/illustrations.svg) İllustrations Klasörü
+
 Bu klasörde de vektorel çizimlerin olduğu siteleri topladım. Bir çok siteye girdiğinizde de böyle çizimlerin bolca kullanıldığını görürsünüz.
 
 1. [undraw](https://undraw.co/illustrations)
@@ -886,7 +890,7 @@ Evet en güzel klasöre geldik bence. Bu klasörde ise işinizi kolaylaştıraca
 
 ## ![](image/mentor.svg) Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar
 
-1. [designgost](https://www.designgost.com/) : Daha çok tasarımcıların bulunduğu bir mentörlük sitesidir. Verilen mentörlük hizmeti ücretsizdir ve site türkçedir. 
+1. [designgost](https://www.designgost.com/) : Daha çok tasarımcıların bulunduğu bir mentörlük sitesidir. Verilen mentörlük hizmeti ücretsizdir ve site türkçedir.
 2. [frontendmentor](https://www.frontendmentor.io/)
 3. [adplist](https://adplist.org/)
 4. [superpeers](https://superpeer.com/) : Uzman kişiler ile ücretli ücretsiz sohbet edebileceğiniz bir platform. [Aha bende buradayım 😁](https://superpeer.com/musayazlik)
@@ -933,10 +937,8 @@ Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain i�
 
 ## ![](image/browser-plugins.svg) Tarayıcıda kullandığım eklentiler
 
-
-
-1. [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) : Önceden sitelerde aynı şifreyi kullanırdım. Ama son zamanlarda hacklenen çok fazla site duymaya başladım. Bundan dolayıda artık her sitede birbirinden farklı şifreler kullanmaya başladım. Tabi ku kadar şifreyide kafamda tutamazdım. Bu yüzen de şifrelerimi depolayacak bir depoya ihtiyacım vardı. Bende Bitwarden i buldum. 
-2. [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : Hâlâ ingilizcem o kadar iyi değil. Çeviri için kullandığım bir eklenti. 
+1. [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) : Önceden sitelerde aynı şifreyi kullanırdım. Ama son zamanlarda hacklenen çok fazla site duymaya başladım. Bundan dolayıda artık her sitede birbirinden farklı şifreler kullanmaya başladım. Tabi ku kadar şifreyide kafamda tutamazdım. Bu yüzen de şifrelerimi depolayacak bir depoya ihtiyacım vardı. Bende Bitwarden i buldum.
+2. [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : Hâlâ ingilizcem o kadar iyi değil. Çeviri için kullandığım bir eklenti.
 3. [Clear cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn) : Tek tıkla her şeyi silmek için kullandığım bir eklenti. Genelde ön belleği silmek için kullanıyorum.
 4. [Fake filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) : Sayfada bulunan inputları fake data ile otomatik doldurmak için kullandığım bir eklenti.
 5. [Colorpick eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg) : Sayfadaki renklerin renk kodlarını bulmak için kullandığım bir eklenti.
@@ -949,11 +951,247 @@ Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain i�
 12. [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=tr) : Girdiğiniz sitede hangi web teknolojilerinin kullanıldığını gösteren bir eklenti
 13. [Whatruns](https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip?hl=tr) : Bir yukarıdaki ile aynı işe yarıyor.
 14. [Json viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) : Json verilerin daha düzenli ve göze hoş bir şekilde gözükmesini sağlıyor.
-15. [Keywords everywhere keywo](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) : Anaktar kelime önerisi veren bir eklenti.  Kişisel sitememe içerik hazırladığımda çok işime yaradığını söyleyebilirim.
+15. [Keywords everywhere keywo](https://chrome.google.com/webstore/detail/keywords-everywhere-keywo/hbapdpeemoojbophdfndmlgdhppljgmp) : Anaktar kelime önerisi veren bir eklenti. Kişisel sitememe içerik hazırladığımda çok işime yaradığını söyleyebilirim.
 16. [Vuejs devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd/related) : Vue kodlaması yaparken baya işimi kolaylaştıran bir eklenti.
 17. [React developer tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) : React kodlaması yaparken baya işimi kolaylaştıran bir eklenti.
 
 <br>
+
+## ![](image/vsc.svg) Visual Studio Code Editöründe Kullandığım Ayarlar Ve Eklentiler
+
+Günümüz kodlama ekranına bakarak geçiyor. Bunun içinde bazı ide veya kod editörleri kullanıyoruz. Bende genel anlamda phpstorm ide'sini ve visual studio code editörünü kullanıyorum. Phpstorm ücretli bir ide. Bu yüzden de pek fazla özelleştirme yapamıyorsunuz ama visual studio code editörü ise tamamen ücretsiz ve açık kaynak bir program. Bende özelleştirmeyi aşırı seven birisiyim. Bu başlık altında ise sizler ile visual studio code editöründe kullandığım ayarları ve eklentilerini paylaşıyor olacağım. 
+
+<br>
+
+### ![](image/settings.svg) Ayarlar
+
+Burada sizlere visual studio code editöründe kullanıyor olduğum ayarları paylaşıyor olacağım. Bazı ayarların ne işe yaradıklarını sizler ile kaba taslak olsa da paylaştım. Olmayanları ise deneyerek ne işe yaradığını öğrenirsiniz artık.😄 Ha bir uyarı olarak eklentileri yüklemeden ayarları kopyala yapıştır yapmaya kalkışmayın. Bazı ayarlar eklentilerin ayarları söylemiş olam. 
+
+```json
+{
+  "files.autoSave": "afterDelay", // Otomatik kaydetme ayarı.
+  "editor.wordWrap": "on", // Satıra sığmayan kodları alt satıra indirerek alt scroll un çıkmasını engelliyor.
+  "breadcrumbs.enabled": false, // editör alanının(Kodların yazıldığı alan) üstünde bulunan gezinti çubuğunu gizleyip görünür yapmayı sağlıyor.
+  "editor.formatOnSave": true, // Kodlarınızı save sonrası otomatik formatlamayı düzenlemeyi sağlıyor.
+  "editor.fontWeight": "400", // Font kalınlığı ayarı
+  "editor.fontFamily": "Poppins", // Font tipi ayarı. Ben Poppins fontunu kullanıyorum. Kodlamada daha okunabilir bir font.
+  "editor.fontLigatures": false, // Nerd Font kullanımında etkinleştirilmesi gerekilen bir ayar.
+  "editor.cursorSmoothCaretAnimation": true, // Bir animasyon için ama ne için bilmiyorum.
+  "editor.cursorBlinking": "expand", // Cursor animasyon ayarı.
+  "editor.minimap.enabled": false, // Minimap açma kapatma ayarı
+  "editor.tabSize": 3, // Kodlamadaki tab girintisinin ayarı.
+  "editor.insertSpaces": false, // Kodlamadaki tab girintisinin otomatik aayarlanmasını sağlar. Kapalı tutulması önerilir.
+  "editor.lineHeight": 1.4, // Kodların satır yüksekliği ayarı.
+  "editor.fontSize": 16, // Font büyüklüği ayarı
+  "editor.suggestSelection": "recentlyUsedByPrefix", // Kod yazarken çıkan öneri listesinde en son kullanılanı nasıl bir öncelikte seçeceğinizi belirleyen ayar.
+  "editor.mouseWheelZoom": true, // Mouse daki scroll tuşunu kullanarak font büyüklüğünü değiştirebilmeniz için bir ayar.
+  "editor.linkedEditing": true, // Düzenleyicinin bağlantılı düzenlemeyi etkinleştirip etkinleştirmediğini kontrol eder.
+  "editor.letterSpacing": 1.02, // Kodlardaki harfler arası boşluğu ayarlamak için kullanılır.
+  "explorer.confirmDelete": true,
+  "window.zoomLevel": -0.8,
+  "workbench.colorCustomizations": {
+    // ! Editöre ait renk ayarları
+    "sideBar.border": "#7739e0",
+    "tab.activeBackground": "#2d1656a8",
+    "tab.activeBorderTop": "#7739e0",
+    "tab.hoverBackground": "#7739e0",
+    "tab.hoverForeground": "#FFFFFF",
+    "list.hoverBackground": "#7639e038",
+    "activityBar.background": "#7739e0",
+    "scrollbarSlider.activeBackground": "#7739e0",
+    "activityBar.activeBackground": "#2d1656a8",
+    "activityBar.activeFocusBorder": "#2d1656a8",
+    "activityBar.activeBorder": "#2d1656a8",
+    "activityBar.inactiveForeground": "#fff",
+    "badge.background": "#7739e0",
+    "panel.border": "#7739e0",
+    "panelTitle.activeForeground": "#ffffff",
+    "panelTitle.inactiveForeground": "#fff",
+    "statusBar.border": "#7739e0",
+    "button.background": "#7739e0",
+    "statusBar.background": "#7739e0",
+    "statusBar.noFolderBackground": "#7739e0",
+    "statusBar.debuggingBackground": "#7739e0",
+    "menu.selectionBackground": "#7739e0"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.snippetSuggestions": "top",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "presentationMode.zoomLevel": -0.8, // presentationMode eklentisinin zoom ayarı.
+  // ! Git Ayarları
+  "git.confirmSync": false,
+  "gitlens.advanced.messages": {
+    "suppressLineUncommittedWarning": true
+  },
+  "git.postCommitCommand": "push",
+  "git.autofetch": false,
+  "git.enableSmartCommit": true,
+  // ! Better  Comments Eklentisiniz Ayarları
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    },
+    {
+      "strikethrough": true,
+      "backgroundColor": "transparent"
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "backgroundColor": "transparent"
+    }
+  ],
+  "workbench.iconTheme": "material-icon-theme", // İcon ayarıdır.
+  // ! Codesnap Eklentisi Ayarları
+  "codesnap.backgroundColor": "none", // Arka Plan ayarı
+  "codesnap.containerPadding": "3em", // Container alanı padding ayarı
+  "codesnap.transparentBackground": true, // Arka plan transparent olmasını isterseniz true yapın.
+  "codesnap.boxShadow": "rgba(0, 0, 0, 0.30) 0px 5px 20px", // Gölge ayarı
+  "emmet.triggerExpansionOnTab": true, //Tab tuşuna yazılan emmet kodunun işlevsellik kazanması için bir ayar true olarak ayarlanması önerilir.
+  "html-css-class-completion.enableEmmetSupport": true, // Proje dosyasına dahil edilen css doslayarındaki css classlarının emmet önerilen listesinde çıkmasını ayarlayacağınız bir ayar. Bir eklenti ile gelen ayardır.
+  "liveServer.settings.donotShowInfoMsg": true, // Live server eklentisi açılırken gelen bildirim mesajını ayarlamak için kullanılan bir ayar.
+  "emmet.includeLanguages": {
+    // Varsayılan olarak desteklenmeyen dillerde Emmet kısaltmalarını etkinleştirir.
+    "javascript": "javascriptreact"
+  },
+  "workbench.colorTheme": "Dracula", // Kullanılan tema ayarı
+  "[javascript]": {
+    // Javascript dili için geçersiz kılınacak düzenleyici ayarlarını yapılandırır
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[css]": {
+    // Css dili için geçersiz kılınacak düzenleyici ayarlarını yapılandırır
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  /* 
+	
+	! Live Sass Compile Eklentisi Ayarları Start
+	
+	*/
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "~/../css/"
+    },
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "~/../css/"
+    },
+    {
+      "format": "compressed",
+      "extensionName": ".min.css",
+      "savePath": "~/../css/"
+    }
+  ],
+  "liveSassCompile.settings.generateMap": true, // Derlenmiş sass dosyalarının içinde map dosyası olup olmamasını ayarladığınız ayardır.
+  "liveSassCompile.settings.showOutputWindow": false, // Anlık derleme çıktı bilgisini almamak için kullanacağınız bir ayardır. True olarak ayarlamanız önerilir. Kodlama bir hata olur ise göremezsiniz.
+  "liveSassCompile.settings.autoprefix": [
+    // Derlemede tarayıcı uyumluluğu ayarlarını yapabileceğiniz autoprefix ayarlarıdır.
+    "> 1%",
+    "last 5 versions"
+  ],
+  /* 
+
+	! Live Sass Compile Eklentisi Ayarları End
+
+	*/
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font", // Terminal font ayarı
+  "terminal.integrated.fontSize": 15, // Terminal font büyüklüğü ayarı
+  "terminal.integrated.lineHeight": 1.2, // Terminal satır yüksekliği ayarı
+  "terminal.integrated.fontWeight": 100, // Terminal font kalınlığı ayarı
+  "terminal.integrated.letterSpacing": 0.9, // Terminal harflerin arası boşluk ayarı
+  "terminal.integrated.cursorBlinking": true, // Terminal imlecinin yanıp sönme animasyonu ayarı
+  "terminal.integrated.cursorStyle": "line", // Terminal imleci stili ayarı
+  "terminal.integrated.cursorWidth": 2, // Terminal imleci genişlik ayarı
+  "terminal.integrated.fontWeightBold": 600, // Terminal kalın font kalınlığı ayarı
+  "terminal.integrated.defaultProfile.windows": "Git Bash", //Varsayılan olarak kullanılacak terminali belirler.
+  // ! CustomizeUi Eklentisi Ayarları // Uyarı: Linux da çalışmıyor.
+  "customizeUI.activityBar": "bottom", // ActivityBar konumunu ayarlar. (Sol köşede bulunan iconlar)
+  "customizeUI.fontSizeMap": {
+    // Font ayarları
+    "11px": "13px",
+    "13px": "14px",
+    "monospace": "14px",
+    "icons": "14px"
+  },
+  "customizeUI.font.regular": "Poppins", //Kullanılacak font ayarı. Uygulamanın kendi font unu değiştiriyorsunuz.
+  "customizeUI.font.monospace": "Poppins", // Monospace olarak kullanılacak font ayarı.
+  "customizeUI.listRowHeight": 24, // Programda sol tarafta bulunan proje dosyalarının listesinin satır yüksekliğini ayarlıyor.
+  "customizeUI.moveStatusbar": true, // Durum çubuğunu panelin altına taşır.
+  "customizeUI.titleBar": "regular", // 	macOS için satır içi başlık çubuğu stili ayarı
+  "customizeUI.stylesheet": {
+    // Daha fazla kişisel özelleştirme :)
+    "body.activity-bar-at-bottom .monaco-workbench .activitybar .monaco-action-bar .action-label": "font-size:18px !important;",
+    ".monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit": "height:40px;",
+    ".monaco-workbench .part.titlebar>.window-appicon": "width:35px",
+    ".monaco-workbench .part.titlebar > .window-appicon:not(.codicon),.monaco-workbench .part.titlebar .window-appicon > .home-bar-icon-badge": "background-image: url('URL_Giriniz'); background-repeat: no-repeat;background-position: 50%;" // Programın sol üst köşesinde bulunan vsc logosunu ayarlamaya yarar.
+  },
+  "security.workspace.trust.untrustedFiles": "open", // Güvenilir bir çalışma alanında güvenilmeyen dosyaların açılmasının nasıl ele alınacağını denetler.
+  "window.titleBarStyle": "custom", // Title bar ın stilin ayarlayabileceğiniz bir ayardır. Programın en üst barı.
+  "window.menuBarVisibility": "toggle", // Menu bar ayarıdır. Toggle ayarlar iseniz alt tuşuna basarak gizleyip gösterebilirsiniz.
+  // ! Background Eklentisi Ayarları
+  "background.filepath": "", // Arkaplana ayarlanacak resim yolu. Localden de ayarlayabilirsiniz. Ama ben bir türlü ayarlayıp çalıştıramadım.
+  "background.size": "cover", // Eklenen resmin boyutlarını ayarlamak için kullanılır.
+  "background.opacity": 0.95, // Eklenen resmin verilen değere göre görünürlük ayarı yapmaya yarıyor.
+  "background.alignment": "Center Center" // Eklenen resmin verilen değerlere göre hizalanmaya yarıyor.
+}
+```
+
+<br>
+
+### ![](image/extensions.svg) Eklentiler
+Burada ise size visual studio code editöründe kullanmış olduğum eklentileri sizler ile paylaşıyor olacağım. Baya eklenti kullanmama rağmen editör çok fazla yavaşlama olmadı. 😄
+
+1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) : Html etiketini otomatik olarak kapatmaya yarayan bir eklenti.
+2. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) : Eşli başlağıç ve bitiş etiketini otomatik aynı anda değiştirmeye yarayan bir eklenti.
+3. [Background](https://marketplace.visualstudio.com/items?itemName=ThomasZhang.background) : Editörün arka plan ayarları için kullandığım bir eklenti.
+4. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) : Kodlarınıza renkli yorum satırları eklemenizi sağlayan bir eklenti.
+5. [Bloop](https://marketplace.visualstudio.com/items?itemName=bloop.bloop) : Kodlamanızı yaparken benzer kod parçacıkları veren bir eklenti.
+6. [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) : Eşleşen parantezleri renklendirmek için kullandığım bir eklenti.
+7. [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) : Seçtiğiniz kod parçasının ekran görüntüsünü paylaşabileceğiniz bir eklenti.
+8. [CSS Formatter](https://marketplace.visualstudio.com/items?itemName=aeschli.vscode-css-formatter) : Css kodlarını biçimlendirmek için kullandığım bir eklenti.
+9. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) : Html taglarında kullandığınız classları css dosyasına gitmeden göz atmanızı sağlayan bir eklenti.
+10. [Customize UI](https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui) : Vsc programını özelleştirmek için kullandığım bir eklenti.
+11. [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) : Kullandığın bir temadır.
+12. [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) : Vsc için EditorConfig desteğini sağlamak için kullandığım bir eklenti.
+13. [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) : İsimdeki teknolojiler için basit bir kod parçacığı eklentisidir. 
+14. [Fix JSON](https://marketplace.visualstudio.com/items?itemName=oliversturm.fix-json) : Json dosyasını biçimlendirmek için kullandığım bir eklentidir.
+15. [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) : Kodlamayı yazarken tamamlamalar sunan bir eklenti. Hâlâ yapım aşamasında olan bir eklenti ve bende kullanmak için sırada bekleyen birisiyim. 😄Hâlâ onay bekliyorum.
+16. [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) : Git özelliklerini güçlendirmek için kullandığım bir eklenti.
+17. [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) : Eşleşen açılış ve kapanış  etiketlerini vurgulamak için kullandığım bir eklenti.
+18. [HTMLHint](https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint) : Yazılan html etiketlerinde hata olup olmadığı konusunda analiz eden bir eklenti.
+19. [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion) : Projeye dahil edilen css kütüphenelerinde bulunan css classlarını html etiketlerinde bulunan class özelliğinde yazarken otomatik olarak önerilenler listesinde gözükmesini sağlayan bir eklenti. Çok işime yarayan bir eklenti.
+20. [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) : Girintilerin renklendirerek kodların okunmasını kolaylaştıran bir eklenti.
+21. [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets) :  130'dan fazla jQuery Kod Parçacığı olan bir eklenti. Jquery kodlaması yaparken bana kolaylık sağlayan bir eklenti.
+22. [json](https://marketplace.visualstudio.com/items?itemName=ZainChen.json) : Vsc da json desteği için bir eklenti.
+23. [Live Sass Compiler](https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass) : Tarayıcının yeniden yüklemesiyle Sass veya Scss'in gerçek zamanlı olarak CSS'e derlemeyi sağlayan bir eklenti. Ben artık scss kodlarımın derlemesini node-sass npm paketi ile yapıyorum. Yani artık kullandığım bir eklenti değil. 😊
+24. [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) : Statik ve dinamik sayfalar için canlı yeniden yükleme özelliğini sağlayan , yerel sunucusu başlatan bir eklenti. Çok fazla kullandığım bir eklenti.
+25. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) : İcon eklentisi.
+26. [Monkey Patch](https://marketplace.visualstudio.com/items?itemName=iocave.monkey-patch) : Özel javascript'i vscode'a eklemenizi sağlayan bir eklenti.  Customize UI eklentisinin çalışması için gerekli olan bir eklenti.
+27. [NPM Scripts](https://marketplace.visualstudio.com/items?itemName=jianglinghao.vscode-npm-scripts) : Kenar çubuğunda NPM komut dosyalarını görüntülemeyi ve çalıştırmayı sağlayan bir eklenti.
+28. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) : Dosya adlarını otomatik olarak tamamlayan bir eklenti. href ve src özeliklerinde çok işe yarıyor.
+29. [Presentation Mode](https://marketplace.visualstudio.com/items?itemName=jspolancor.presentationmode) : Kodunuzu bir sunumda düzgün bir şekilde göstermek için basit bir eklenti. Ben daha çok programın ekranda kaplayan gereksiz kısımlarını gizleyip sadece kodları görmek için kullanıyoru. Çokta güzel oluyor ha. 😂
+30. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) : Tek bir eklenti ile bütün formatlarda kodlarınızın biçimlendirmesini sağlayan bir eklenti.
+31. [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter) : SCSS kodlalrını biçimlendirmek için kullanılandığım bir eklenti.
+32. [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets) : React.js kod parçacıkları için kullandığım bir eklenti.
+33. [Turkish Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-tr) : Vsc için Türkçe dil paketi. Ben ingilizce öğrenmek için bu eklentiyi aktif olarak kullanmıyorum ama listeye eklemek istedim. Zaten bilgisayarınızın dili türkçe ise bu eklenti vsc u yüklediğinizde bir uyarı vererek sizden yüklenmesini istiyor. Bu arada çeviri çok başarılı olmuş. Buradan Adem Coşkuner'e ve diğer katkı sağlayan herkese teşekkürlerimi iletiyorum.😊
+34. [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) : Hangi projede kaç dakika zaman harcamış olduğumu gösteren bir eklenti. Ben günlük rapor olarak e posta alıyorum ve ücretsiz sürümü baya iş görüyor.
+35. [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) : Programda bulunan bütün ayarlarınızı,eklentilerinizi github a depolayan bir eklenti.  
+
 <br>
 
 ## THE END
@@ -972,7 +1210,7 @@ Evet reponun sonuna ulaşmış bulunmaktasınız. Bu repoyu hazırlamam iş yoğ
 
 ## Uyar Kaldır
 
-Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Bende bu sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmış isem beni uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır. 
+Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Bende bu sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmış isem beni uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır.
 
 <p align="left">
 <a href="https://twitter.com/musayazlik" target="blank"><img align="center" src="image/social/twitter.svg" alt="musayazlik" width="40" /></a>
@@ -981,4 +1219,3 @@ Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir 
 <a href="https://t.me/musayazlik" target="blank"><img align="center" src="image/social/telegram.svg" alt="musayazlik" width="40" /></a>
 <a href="mailto:info@musayazlik.com" target="blank"><img align="center" src="image/social/email.svg" alt="musayazlik" width="40" /></a> 
 </p>
-
