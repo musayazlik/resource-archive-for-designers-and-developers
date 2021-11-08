@@ -408,6 +408,14 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 14. [Mesuthoca](http://www.mesuthoca.com/) : Mesut hocanın forum sitesi.
 15. [Stackexchange](https://stackexchange.com/) : Bu sitede sorularınızı sorabileceğiniz güzel bir forum sitesi. Ama ingilizce.
 16. [Indiehackers](https://www.indiehackers.com/) : Online projeler geliştiren insanlar topluluğu.
+17. [yen.chat](https://yen.chat/)
+18. [webdeveloper](https://www.webdeveloper.com/) : Yazılımcılar için basit bir forum sitesi.
+19. [sitepoint](https://www.sitepoint.com/community/) : Yazılım ile ilgili Sorularına cevap alabileceğiniz güzel bir forum (Community) sitesi.
+20. [coffeecup](https://www.coffeecup.com/forums/) : Hem yazılım ile ilgili hemde web tasarım ile ilgili sorularınızı sorabileceğiz bir forum sitesi.
+21. [hashnode](https://hashnode.com/) : Geliştiricile için bir blog platformudur..
+22. [hackernoon](https://hackernoon.com/) : Yazılım ile ilgili blog yazılarının paylaşıldığı bir site. 
+23. [remoteclan](https://remoteclan.com/)
+24. [devdojo](https://devdojo.com/) : Geliştiricilerin blog yazıları paylaştığı bir platformdur.
 
 <br>
 
