@@ -18,7 +18,7 @@ Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyor
 <a href="https://superpeer.com/musayazlik" target="blank"><img align="center" src="image/social/superpeer.svg" alt="musayazlik" width="40" /></a>  
 </p>
 
-# Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.1)
+# Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.4)
 
 Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısaca kendimden bahsettikten sonra depo ile ilgili bilgiler vereyim diyorum nasıl olur?😁 İsmim Musa Yazlık. 24 yaşındayım. Erciyes üniversitesi kayseri meslek yüksek okulu Bilgisayar programcılığı mezunuyum. Kendimi 2017 yılının haziran ayından bu yana web tasarım ve web yazılım alanında geliştirmekteyim. Şu anda ise hobi amaçlı figma öğreniyorum ve tasarımlar yapıyorum. Uzmanlık olarakta Web alanının Frontend tarafında kendimi geliştirmeye devam ediyorum.
 
@@ -416,6 +416,7 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 22. [hackernoon](https://hackernoon.com/) : Yazılım ile ilgili blog yazılarının paylaşıldığı bir site. 
 23. [remoteclan](https://remoteclan.com/)
 24. [devdojo](https://devdojo.com/) : Geliştiricilerin blog yazıları paylaştığı bir platformdur.
+25. [monthcamp](https://monthcamp.com/lands) : Geliştiriciler için kurulmuş bir soru cevap platfromudur.
 
 <br>
 
@@ -439,7 +440,7 @@ Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,
 14. [shortcode](https://shortcode.dev/) : Html,css,javascript ve laravel gibi dillerde küçük kod örneklerinin ve anlatılarının olduğu bir site.
 15. [devdocs](https://devdocs.io/) : Yukarıdakinin aynısı ama daha iyisi.
 16. [Goalkicker Book](https://books.goalkicker.com/) : Bir çok yazılım dilinin kitaplarının olduğu bir site. (Betik ve işaretleme dillerininde kitapları bulunuyor Ama hepsi ingilizce)
-17. [Tympanus Css Ceference](https://tympanus.net/codrops/css_reference/) : Css reference sitesidir.
+17. [npmjs commands](https://docs.npmjs.com/cli/v6/commands) : Npm CLI komutları ile ilgili bir Docs sitesidir.
 
 <br>
 
@@ -451,6 +452,7 @@ Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yi
 2. [Htmlreference](https://htmlreference.io/)
 3. [Htmldersleri](http://www.htmldersleri.org/index.php?getir=html_primary&ID=3) : Türkçe bir site ingilizceden anlamıyorum ben diyorsanız.
 4. [Lifeacode](https://www.lifeacode.com/html-tags/html-doctype-etiketi.html) : Bu sitede daha düzenli bir şekilde anlatıyor html etiketlerini. Ama ben youtube dan fehmi uyar kanalına bakmanızı öneririm.
+5. [m5bilisim](https://www.m5bilisim.com/webokulu/etiketler/ozellik-a-target.php) : Her html etileti ile ilgili detaylı bilgi veren türkçe bir sitedir.
 
 <br>
 
