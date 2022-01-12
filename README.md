@@ -2,7 +2,7 @@
 <img align="center" src="image/uyarı.svg" alt="musayazlik" />
 <br>
 
-# Önce Reklam 😁😁
+># **Önce Reklam** 😁😁
 
 Reklamlar.... Hanımların dikkatine hem tasarım hemde yazılım makinesi ayağınıza geldi...😂
 
@@ -18,7 +18,7 @@ Kendinize özel bir tasarıma sahip statik bir web sitesi yaptırmak mı istiyor
 <a href="https://superpeer.com/musayazlik" target="blank"><img align="center" src="image/social/superpeer.svg" alt="musayazlik" width="40" /></a>  
 </p>
 
-# Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.4)
+> # **Yazılımcılar İçin Ücretsiz Faydalı Kaynaklar (v1.5)**
 
 Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısaca kendimden bahsettikten sonra depo ile ilgili bilgiler vereyim diyorum nasıl olur?😁 İsmim Musa Yazlık. 24 yaşındayım. Erciyes üniversitesi kayseri meslek yüksek okulu Bilgisayar programcılığı mezunuyum. Kendimi 2017 yılının haziran ayından bu yana web tasarım ve web yazılım alanında geliştirmekteyim. Şu anda ise hobi amaçlı figma öğreniyorum ve tasarımlar yapıyorum. Uzmanlık olarakta Web alanının Frontend tarafında kendimi geliştirmeye devam ediyorum.
 
@@ -26,7 +26,7 @@ Herkese merhabalar.🖐 Söze nasıl başlayacağımı bilemedim. Şöyle kısac
 
 <br>
 
-## Bu depoda ne gibi şeyler olacak?
+>## **Bu depoda ne gibi şeyler olacak?**
 
 Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak olacak desem çok sade bir cevap olur sanırım. Ben bir kaç madde ile olacaklardan bahsedeyim.
 
@@ -44,7 +44,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## ![](image/instagram.svg) Takip Ettiğim İnstagram Hesapları
+## ![](image/instagram.svg) **Takip Ettiğim İnstagram Hesapları**
 
 Ücretsiz udemy eğitimlerine takip ettiğim instagram hesaplarından ve üye olduğum telegram gruplarından elde ediyorum. Takip ettiğim instagram hesaplarının çekilişlerine katılmıyorum sadece hikayelerinde ücretsiz bir kurs paylaştıklarında hemen kapıyorum.😅 Tabi sadece udemy kursu kapmak için takip etmiyorum. Bu takip ettiğim hesaplar web tasarım,web yazılım veya girişimcilik ile ilgili paylaşımlarda yapıyorlar. Onlarda hoşuma gidiyor. Normalde artık instagram hesabımı aktif bir şekilde kullanmıyorum ama isterseniz [buraya](https://www.instagram.com/musa_yazlik/) tıklayarak beni takip edebilirsiniz.😁
 
@@ -121,7 +121,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## ![](image/telegram.svg) Üye Olduğum Telegram Grupları
+## ![](image/telegram.svg) **Üye Olduğum Telegram Grupları**
 
 1. [Yazılım Topluluğu](https://t.me/yazilimtoplulugu)
 2. [Kablosuzkedi](https://t.me/joinchat/Jg9BelVAU4OspsJtCrRSxA)
@@ -153,7 +153,7 @@ Web tasarım ve web tasarım ile ilgili ücretli,ücretsiz her türlü kaynak ol
 
 <br>
 
-## ![](image/youtube.svg) Abone Olduğum Youtube Kanalları
+## ![](image/youtube.svg) **Abone Olduğum Youtube Kanalları**
 
 Güzel bir bölüme geldik. Siz yapıyor musunuz bilmiyorum ama ben her hafta 1 saatimi "Html,css,javascript design" gibi kelimeleri kullanarak youtube da yeni kanallar bulmaya çalışıyorum. Bulduklarıma da abone oluyorum. Ben yaklaşık 100 kanala abone olmuşumdur diye düşünüyordum. Ama tamı tamına 224 kanala abone olmuşum. Vay canına 😅. Bu kanalların Web tasarım ve Web yazılım ile ilgili kanallar. Ama aralarında farklı kanallarda var. Her zaman yazılım olmuyor birazda eğlenmek şart. 😁
 
@@ -384,13 +384,13 @@ Güzel bir bölüme geldik. Siz yapıyor musunuz bilmiyorum ama ben her hafta 1 
 
 <br>
 
-## Bookmarks (Yer İşaretleri)
+## **Bookmarks (Yer İşaretleri)**
 
 Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken bazı siteler oluyordu. Herkesin yaptığı gibi bende tarayıcının yer işaretleri (yer imleri) kısmına kayıt ederim. Son günlerde yer imleri klasörler halinde düzenledim. Ama klasörler içerisine atmış olduğum siteleri pekte düzenlediğimi söyleyemem. Burada ise yer imlere kaydetmiş olduğum siteleri hem sizler ile paylaşacağım hemde klasörlerin içerisini düzenlemiş olacağım.
 
 <br>
 
-### ![](image/social.svg) Social Klasörü
+### ![](image/social.svg) **Social Klasörü**
 
 1. [Reddit](https://www.reddit.com/) : İngilizce bir site. Sorularımı genel anlamda bu sitede paylaşıyorum. İnanın ki türkçe sitelere göre daha net ve hızlı yanıtlar alıyorum.
 2. [stackoverflow](https://stackoverflow.com/) : Bilgisayar programcılığı ile ilgili kullanıcı odaklı soru cevap sitesi.
@@ -420,7 +420,7 @@ Bir yazılım dili öğrenirken veya bir şey araştırırken ilgimi çeken baz�
 
 <br>
 
-### ![](image/document.svg) Document Klasörü
+### ![](image/document.svg) **Document Klasörü**
 
 Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,node.js ve php ile ilgili kütüphanelerin dokümantasyon sayfalarını ve dillere ait hoşuma giden siteleri tutmaya başladım.
 
@@ -444,7 +444,7 @@ Bu klasörü yeni oluşturdum. Bu klasörde öğrenmiş olduğum css,javascript,
 
 <br>
 
-### ![](image/html.svg) Html Klasörü
+### ![](image/html.svg) **Html Klasörü**
 
 Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yinede bu dokümantasyona bu klasörün içerisinde bulunan siteleride eklemek istedim.
 
@@ -456,76 +456,121 @@ Html ile ilgili çok fazla site depolamamışım. Zaten kolay bir dildir. Ama yi
 
 <br>
 
-### ![](image/css.svg) Css Klasörü
+### ![](image/css.svg) **Css Klasörü**
+
 
 Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben biraz daha UI bakışlı birisiyim bu yüzden css ile ilgili çok fazla site toplamışım. Birazda onlara bakalım. Bu klasörde bolca kütüphane biliktirmişim mutlaka bilmediğiniz bir css kütüphanesi vardır.😀
 
-1. [Carbon](https://carbon.now.sh/) : Mutlaka görmüşsünüzdür süslü bir şekillde yazmış olduğu kodları paylaşırlar. İşte onu bu sitenden yapıyorlar. 😁
-2. [Animista](https://animista.net/) : Çok kullandığım bir animasyon sitesidir.
-3. [Vivify](http://vivify.mkcreative.cz/)
-4. [Bennettfeely](https://bennettfeely.com/clippy/)
-5. [Cssportal](https://www.cssportal.com/css-clip-path-generator/)
-6. [Justinaguilar](http://www.justinaguilar.com/animations/index.html)
-7. [Animate](https://animate.style/) : Çok kullanılan bir css animasyon kütüphanesi.
-8. [Csslayout](https://csslayout.io/) : Bu siteye mutlaka bakınız. Bilmediğiniz bir çok yapının ismini öğrenmiş olursunuz.
-9. [Materializecss](https://materializecss.com/)
-10. [Malven](https://grid.malven.co/) : Css deki grip yapısı ile ilgili bilgilendirici bir site.
-11. [Autoprefixer](https://autoprefixer.github.io/) : Css de yazdığınız kodların her tarayıcıda uyumu olarak çalışabilmesi için bazı eklemeler yapmanız gerekiyor onu sizin yerinize yapan bir site. Autoprefixer bir araştırın isterseniz.
-12. [Normalize](https://necolas.github.io/normalize.css/) : Her tarayıcıda html kodların bazı default ayarlamaları vardı. Bu kütüphane onu her tarayıcıda eşit olmasını sağlıyor.
-13. [Placeholder Loading](https://zalog.ro/placeholder-loading/)
-14. [Foundation](https://get.foundation/)
-15. [Minicss](https://minicss.org/)
-16. [Bulma](https://bulma.io/)
-17. [Getuikit](https://getuikit.com/)
-18. [Webui](https://asyncdesign.github.io/webui/)
-19. [Getskeleton](http://getskeleton.com/)
-20. [Semantic-ui](https://semantic-ui.com/)
-21. [Minstyle](https://minstyle.io/)
-22. [Getmdl](https://getmdl.io/)
-23. [Minireset](http://jgthms.com/minireset.css/) : Normalize gibi ama bu kütüphane bütün ayarları sıfırlıyor.
-24. [Hover](https://ianlunn.github.io/Hover/) : Hover css kütüphanesi.
-25. [Magic](https://www.minimamente.com/project/magic/)
-26. [Csshake](https://elrumordelaluz.github.io/csshake/)
-27. [Purecss](https://purecss.io/)
-28. [Effecktcss](https://h5bp.github.io/Effeckt.css/)
-29. [Tuesday](https://shakrmedia.github.io/tuesday/)
-30. [Dynamiccss](https://ustymukhman.github.io/Dynamic.css/)
-31. [WickedCSS](https://kristofferandreasen.github.io/wickedCSS/#)
-32. [Luxbar](https://balzss.github.io/luxbar/)
-33. [Pie-Menu](https://nikesh.github.io/Pie-Menu/#)
-34. [Redq-megamenu](https://faysalhaque.github.io/redq-megamenu/)
-35. [Tailwindcss](https://tailwindcss.com/)
-36. [Cardinalcss](http://cardinalcss.com/)
-37. [Spinkit](https://tobiasahlin.com/spinkit/)
-38. [Blazeui](https://www.blazeui.com/)
-39. [Loaders](https://connoratherton.com/loaders)
-40. [Crayon](https://riccardoscalco.it/crayon/)
-41. [İsotope](https://isotope.metafizzy.co/#css)
-42. [Shoelace](https://shoelace.style/docs/installing.html)
-43. [Jessepollak-card](https://github.com/jessepollak/card)
-44. [Web-grid](https://webjeda.com/web-grid/)
-45. [Bootstrap-magic](https://pikock.github.io/bootstrap-magic/) : Bootstrap 4 css kütüphanesini kullanmak istiyorsunuz ama içerisinde değişiklikler yaptıktan sonra kullanmak istiyorsanız bu site size onu yapmanız için yardımcı oluyor. Hatta daha fazlasını yapıyor.
-46. [Getwaves](https://getwaves.io/) : Bazı web sitelerinde dalgalı yapılar görmüşsünüzdür. Sizde onu Photoshop da yapmışsınızdır. İşte ona hiç gerek yok. Bu site size o dalgalı yapıları oluşturmanız için yardımcı oluyor.
-47. [Blobmaker](https://www.blobmaker.app/) : Yukarıdakinin bir değişiği.
-48. [Mehsatek](https://www.mehsatek.com/css-kodlari/)
-49. [Chartscss](https://chartscss.org/) : Grafik yapıları bu css kütüphanesi ile oluşturulmakta. Bir çok admin temalarında bu css kütüpnesini görürsünüz. Çok kullanılan bir kütüphanedir.
-50. [Cailblocks](https://tailblocks.cc/) : Bootstrap 4 ile kodlanmış hazır block yapılarının olduğu bir site.
-51. [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) : Basit bir css kütüphenesi.
-52. [Watercss](https://watercss.kognise.dev/) : Aşırı basit bir css stilleri koleksiyonudur.
-53. [Headlessui](https://headlessui.dev/) : Hem react hemde vue olarak kodlamasını alabileceğiz ui bileşenlerin olduğu bir site.
-54. [Magic Of Css](https://adamschwartz.co/magic-of-css/) : Css ile ilgili içerikler olan küçük bir site.
-55. [Flexboxpatterns](https://www.flexboxpatterns.com/) : Küçük flexbox kalıplarının olduğu bir sitedir.
-56. [Elastic UI](https://elastic.github.io/eui/#/) : Şimdi baktımda bootstraptan çok daha güzel bir kütüphane. 😁
-57. [You Need To Know Css](https://lhammer.cn/You-need-to-know-css/#/) : Css ile ilgili püf noktalar veren bir site.
-58. [Animatopy](https://sarthology.github.io/Animatopy/) : Animatecss ile aynı olan bir site.
-59. [Animatelo](https://gibbok.github.io/animatelo/) : Yukarıdaki ile aynı.
-60. [All Animation](https://all-animation.github.io/) : 3D güzel animasyonlar verebileceğiniz bir site.
-61. [Cssfx](https://cssfx.netlify.app/) : Her türlü animasyon var.😁
-62. [Spinkit](https://tobiasahlin.com/spinkit/) : Küçük bir css animasyon kiti.
+<br>
+
+> #### Education 
+
+1. [css_reference](https://tympanus.net/codrops/css_reference/)
+2. [csslayout](https://csslayout.io/)
+3. [mehsatek](https://www.mehsatek.com/css-kodlari/)
+4. [magic-of-css](https://adamschwartz.co/magic-of-css/)
+5. [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
 
 <br>
 
-### ![](image/javascript.svg) Javascript Klasörü
+> #### Libraries & Frameworks 
+
+1. [getbootstrap](https://getbootstrap.com/)
+2. [materializecss](https://materializecss.com/)
+3. [normalize.css](https://necolas.github.io/normalize.css/)
+4. [placeholder-loading](https://zalog.ro/placeholder-loading/)
+5. [foundation](https://get.foundation/)
+6. [minicss](https://minicss.org/)
+7. [bulma](https://bulma.io/)
+8. [getuikit](https://getuikit.com/)
+9. [webui](https://asyncdesign.github.io/webui/)
+10. [getskeleton](http://getskeleton.com/#download)
+11. [semantic](https://semantic-ui.com/)
+12. [minstyle](https://minstyle.io/)
+13. [getmdl](https://getmdl.io/)
+14. [minireset.css](https://jgthms.com/minireset.css/)
+15. [purecss](https://purecss.io/)
+16. [luxbar](https://balzss.github.io/luxbar/)
+17. [tailwindcss](https://tailwindcss.com/)
+18. [cardinalcss](http://cardinalcss.com/)
+19. [blazeui](https://www.blazeui.com/)
+20. [metafizzy](https://isotope.metafizzy.co/#css)
+21. [shoelace](https://shoelace.style/docs/installing.html)
+22. [web-grid](https://web-grid.webjeda.com/)
+23. [chartscss](https://chartscss.org/)
+24. [tailwind-starter-kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+25. [watercss](https://watercss.kognise.dev/)
+26. [shorthandcss](https://shorthandcss.bansal.io/)
+27. [gethalfmoon](https://www.gethalfmoon.com/)
+28. [spectre](https://picturepan2.github.io/spectre/index.html)
+29. [bttn](http://bttn.surge.sh/)
+30. [mui-treasury](https://mui-treasury.com/)
+
+<br>
+
+> #### Tools 
+
+1. [Carbon](https://carbon.now.sh/)
+2. [Clippy](https://bennettfeely.com/clippy/)
+3. [Malven](https://grid.malven.co/)
+4. [autoprefixer](https://autoprefixer.github.io/)
+5. [bootstrap-magic](https://pikock.github.io/bootstrap-magic/)
+6. [getwaves](https://getwaves.io/)
+7. [unused](https://unused-css.com/)
+8. [mybrandnewlogo](https://mybrandnewlogo.com/tr/renk-gradyan-ureteci)
+9. [xscoder](https://xscoder.com/filterss/)
+
+<br>
+
+> #### Animations 
+
+1. [animista](https://animista.net/)
+2. [vivify](http://vivify.mkcreative.cz/)
+3. [justinaguilar](http://www.justinaguilar.com/animations/index.html#)
+4. [animate.style](https://animate.style/)
+5. [ianlunn Hover](https://ianlunn.github.io/Hover/)
+6. [minimamente](https://www.minimamente.com/project/magic/)
+7. [csshake](https://elrumordelaluz.github.io/csshake/)
+8. [Effeckt.css](https://h5bp.org/Effeckt.css/)
+9. [tuesday](https://shakrmedia.github.io/tuesday/)
+10. [Dynamic.css](https://ustymukhman.github.io/Dynamic.css/)
+11. [wickedCSS](https://kristofferandreasen.github.io/wickedCSS/#)
+12. [Animatopy](https://sarthology.github.io/Animatopy/)
+13. [animatelo](https://gibbok.github.io/animatelo/)
+14. [all-animation](https://all-animation.github.io/)
+15. [cssfx](https://cssfx.netlify.app/)
+16. [csswand](https://www.csswand.dev/)
+17. [animsition](http://git.blivesta.com/animsition/)
+18. [animatedbackgrounds](https://animatedbackgrounds.me/)
+19. [webslides](https://webslides.tv/#slide=1)
+20. [konstaui](https://konstaui.com/)
+
+<br>
+
+> #### Small Structures 
+
+1. [Pie-Menu](http://nikesh.github.io/Pie-Menu/#)
+2. [redq-megamenu](http://faysalhaque.github.io/redq-megamenu/)
+3. [spinkit](https://tobiasahlin.com/spinkit/)
+4. [loaders](https://connoratherton.com/loaders)
+5. [crayon](https://riccardoscalco.it/crayon/)
+6. [jessepollak](https://github.com/jessepollak/card)
+7. [tailblocks](https://tailblocks.cc/)
+8. [flexboxpatterns](https://flexboxpatterns.com/)
+9. [getcssscan](https://getcssscan.com/css-box-shadow-examples)
+10. [styler](https://styler.vercel.app/)
+11. [markodenic](https://markodenic.com/tools/buttons-generator/)
+
+<br>
+
+> #### Others
+
+1. [cssnano](https://cssnano.co/)
+
+
+<br>
+
+### ![](image/javascript.svg) **Javascript Klasörü**
 
 1. [Jquery](https://jquery.com/)
 2. [Owlcarousel2](https://owlcarousel2.github.io/OwlCarousel2/) : Türkçesi atlı karınca olarak geçen Carousel yapımı için güzel bir kütüphane. Haber sitelerinde gördüğünüz sağa sola kayan resimli kartlar vardır. İşte onların yapımında kullanılıyor.
@@ -596,14 +641,14 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 
 <br>
 
-#### ![](image/vuejs.svg) Vue.js Klasörü
+#### ![](image/vuejs.svg) **Vue.js Klasörü**
 
 1. [Vuejs](https://vuejs.org/) : React ta göre öğrenmesi daha basit olan bir javascript kütüphanesi.
 2. [Nuxtjs](https://nuxtjs.org/)
 
 <br>
 
-#### ![](image/reactjs.svg) React.js Klasörü
+#### ![](image/reactjs.svg) **React.js Klasörü**
 
 1. [Reactjs](https://tr.reactjs.org/) : Çok kullanılan popüler bir javascript kütüphanesidir.
 2. [Create React App](https://create-react-app.dev/)
@@ -617,7 +662,7 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 
 <br>
 
-### ![](image/php.svg) Php Klasörü
+### ![](image/php.svg) **Php Klasörü**
 
 Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılımın front end tarafına yöneldiğimi sanırım söylemiştim.😀 Ama ilk başlarda php ile de başladığımıda söylemiştim tabi o zamanlar bu kadar arşiv tutan birisi değildim. Ondan bu klasörde pek fazla kaynak bilikmemiş. 😁
 
@@ -631,7 +676,7 @@ Php klasöründe de pek bir şey biliktirmmemişim. Web tasarım ve web yazılı
 
 <br>
 
-### ![](image/icons.svg) Icon Klasörü
+### ![](image/icons.svg) **Icon Klasörü**
 
 Her tasarımcı mutlaka kullandığı favori bir ikon seti vardır. Benimde favorim şu anda iconsax icon seti. Tasarımcı iconların tasarımını baya ince ayarlara göre hazırlamış. Neyse bu klasörde de bulabilildiğim bütün icon setlerini veya iconları bulabileceğiniz siteleri depoladım.
 
@@ -665,7 +710,7 @@ Her tasarımcı mutlaka kullandığı favori bir ikon seti vardır. Benimde favo
 
 <br>
 
-### ![](image/fonts.svg) Font Klasörü
+### ![](image/fonts.svg) **Font Klasörü**
 
 Şu anda en popüler font sitesi google font hatta ben sadece google fontta bulunan fontları kodlamalarımda kullanıyorum. Ama bu klasörede gerekli gereksiz bütün font sitelerini eklemişim.
 
@@ -682,7 +727,7 @@ Her tasarımcı mutlaka kullandığı favori bir ikon seti vardır. Benimde favo
 
 <br>
 
-### ![](image/color.svg) Color Klasörü
+### ![](image/color.svg) **Color Klasörü**
 
 Ah şu renkler diyerek başlıyorum. Tasarımcı iseniz renkleri anlamanız baya zamanınızı alıyor. Renkler ile ilgili baya site biliktirmişim.😀
 
@@ -718,7 +763,7 @@ Ah şu renkler diyerek başlıyorum. Tasarımcı iseniz renkleri anlamanız baya
 
 <br>
 
-### ![](image/imgs.svg) Imgs Klasörü
+### ![](image/imgs.svg) **Img Klasörü**
 
 Bu klasörde de projelerinde kullanabileceğiniz ücretli ücretsiz resimleri paylaşan siteleri bulunmakta. Uyarı olarak projelerinizde direk olarak google dan resim alıp kullanmayın. Her sanat eserinin olduğu gibi resimlerinde telif hakları vardır. Bu aşağıdaki sitelerin de çoğunda kullanacağınız resimler ticari olarakta kullanabileceğiniz ücretsiz resimleri içermektedir. Unutmayın projenizde kullanacağınız içerinin lisan ına mutlaka dikkat ediniz.
 
@@ -757,7 +802,7 @@ Bu klasörde de projelerinde kullanabileceğiniz ücretli ücretsiz resimleri pa
 
 <br>
 
-#### Remove Klasörü
+#### **Remove Klasörü**
 
 Elinizde bulunan resimlerin photoshop programına ihtiyaç duymadan arka planlarını silebileceğiniz siteler
 
@@ -769,7 +814,7 @@ Elinizde bulunan resimlerin photoshop programına ihtiyaç duymadan arka planlar
 
 <br>
 
-### ![](image/videos.svg) Videos Klasörü
+### ![](image/videos.svg) **Videos Klasörü**
 
 Bu klasörde de projelerinizde kullanabileceğiniz video sitelerini depoladım. Projelerinizde youtube içeriklerini video olarak kullanmayın sıkıntı yaşarsınız.😊
 
@@ -781,7 +826,7 @@ Bu klasörde de projelerinizde kullanabileceğiniz video sitelerini depoladım. 
 
 <br>
 
-### ![](image/design.svg) Design Klasörü
+### ![](image/design.svg) **Design Klasörü**
 
 Bu klasörde de tasarım ile ilgili ilham alabileceğiniz siteleri topladım. Toplamayada devam ediyorum.
 
@@ -803,7 +848,7 @@ Bu klasörde de tasarım ile ilgili ilham alabileceğiniz siteleri topladım. To
 
 <br>
 
-### ![](image/illustrations.svg) İllustrations Klasörü
+### ![](image/illustrations.svg) **İllustrations Klasörü**
 
 Bu klasörde de vektorel çizimlerin olduğu siteleri topladım. Bir çok siteye girdiğinizde de böyle çizimlerin bolca kullanıldığını görürsünüz.
 
@@ -832,7 +877,7 @@ Bu klasörde de vektorel çizimlerin olduğu siteleri topladım. Bir çok siteye
 
 <br>
 
-### ![](image/package.svg) Package Klasörü
+### ![](image/package.svg) **Package Klasörü**
 
 1. [packagist](https://packagist.org/)
 2. [npmjs](https://www.npmjs.com/)
@@ -841,7 +886,7 @@ Bu klasörde de vektorel çizimlerin olduğu siteleri topladım. Bir çok siteye
 
 <br>
 
-### ![](image/database.svg) Database Klasörü
+### ![](image/database.svg) **Database Klasörü**
 
 Aaa bu klasör boş kalmış neredeyse... 😂
 
@@ -850,7 +895,7 @@ Aaa bu klasör boş kalmış neredeyse... 😂
 
 <br>
 
-### ![](image/generator.svg) Generator Klasörü
+### ![](image/generator.svg) **Generator Klasörü**
 
 Evet en güzel klasöre geldik bence. Bu klasörde ise işinizi kolaylaştıracak bir çok şey var diyebilirim. Yazacak başke bir şey bulamadım. Sitelere bakınca böle sitelermi varmış diyeyeceğinize eminim. 🤣
 
@@ -898,7 +943,7 @@ Evet en güzel klasöre geldik bence. Bu klasörde ise işinizi kolaylaştıraca
 
 <br>
 
-## ![](image/mentor.svg) Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar
+## ![](image/mentor.svg) **Ücretli ücretsiz mentörlük hizmeti alabileceğiniz kaynaklar**
 
 1. [designgost](https://www.designgost.com/) : Daha çok tasarımcıların bulunduğu bir mentörlük sitesidir. Verilen mentörlük hizmeti ücretsizdir ve site türkçedir.
 2. [frontendmentor](https://www.frontendmentor.io/)
@@ -908,7 +953,7 @@ Evet en güzel klasöre geldik bence. Bu klasörde ise işinizi kolaylaştıraca
 
 <br>
 
-## ![](image/freelancer.svg) Freelance hizmetler verebileceğiniz siteler
+## ![](image/freelancer.svg) **Freelance hizmetler verebileceğiniz siteler**
 
 Dönem freelance olarak çalışma devri atık diyebiliriz özellikle yazılım alanında. Ama freelance çalışmakta kolay bir iş versiyonu değil her müşteriniz sizin yeni patronunuz oluyor. Bu durumda freelance çalışmak normal çalışmaya göre biraz daha zorlayıcı olabiliyor. Ben bu klasörde freelance işleri alabileceğiniz siteleri listeledim. Bayaa site varmış freelance çalışabileceğiniz site. 😁
 
@@ -934,7 +979,7 @@ Dönem freelance olarak çalışma devri atık diyebiliriz özellikle yazılım 
 
 <br>
 
-## ![](image/cloud-server.svg) Yaptığınız projeleri yayına alabileceğiniz ücretsiz siteler
+## ![](image/cloud-server.svg) **Yaptığınız projeleri yayına alabileceğiniz ücretsiz siteler**
 
 Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain için paranız vardır. Birde node.js veya python ile proje yapıyor iseniz host yerine sanal sunucuya ihtiyacınız olacaktır. Onlarında size yaklaşık aylık 20-30 tl maliyeti olacaktır. Ama artık ihtiyacınız yok. Heroku, dinamik basit ihtiyaçlarınız için her işinizi görmekte. Diğerlerinde ise ise sadece statik projelerinizi yayına alabiliyorsunuz. Ben projelerimi ücretsiz yayına albileceğim 4 tane site bulabildim. Daha fazlası var ise iletişim adreslerimden bana bildirebilirsiniz.
 
@@ -945,7 +990,7 @@ Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain i�
 
 <br>
 
-## ![](image/browser-plugins.svg) Tarayıcıda kullandığım eklentiler
+## ![](image/browser-plugins.svg) **Tarayıcıda kullandığım eklentiler**
 
 1. [Bitwarden](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb) : Önceden sitelerde aynı şifreyi kullanırdım. Ama son zamanlarda hacklenen çok fazla site duymaya başladım. Bundan dolayıda artık her sitede birbirinden farklı şifreler kullanmaya başladım. Tabi ku kadar şifreyide kafamda tutamazdım. Bu yüzen de şifrelerimi depolayacak bir depoya ihtiyacım vardı. Bende Bitwarden i buldum.
 2. [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) : Hâlâ ingilizcem o kadar iyi değil. Çeviri için kullandığım bir eklenti.
@@ -967,13 +1012,13 @@ Yaptığınız projelerinizi yayına almak istersiniz ama ne host nede domain i�
 
 <br>
 
-## ![](image/vsc.svg) Visual Studio Code Editöründe Kullandığım Ayarlar Ve Eklentiler
+## ![](image/vsc.svg) **Visual Studio Code Editöründe Kullandığım Ayarlar Ve Eklentiler**
 
 Günümüz kodlama ekranına bakarak geçiyor. Bunun içinde bazı ide veya kod editörleri kullanıyoruz. Bende genel anlamda phpstorm ide'sini ve visual studio code editörünü kullanıyorum. Phpstorm ücretli bir ide. Bu yüzden de pek fazla özelleştirme yapamıyorsunuz ama visual studio code editörü ise tamamen ücretsiz ve açık kaynak bir program. Bende özelleştirmeyi aşırı seven birisiyim. Bu başlık altında ise sizler ile visual studio code editöründe kullandığım ayarları ve eklentilerini paylaşıyor olacağım. 
 
 <br>
 
-### ![](image/settings.svg) Ayarlar
+### ![](image/settings.svg) **Ayarlar**
 
 Burada sizlere visual studio code editöründe kullanıyor olduğum ayarları paylaşıyor olacağım. Bazı ayarların ne işe yaradıklarını sizler ile kaba taslak olsa da paylaştım. Olmayanları ise deneyerek ne işe yaradığını öğrenirsiniz artık.😄 Ha bir uyarı olarak eklentileri yüklemeden ayarları kopyala yapıştır yapmaya kalkışmayın. Bazı ayarlar eklentilerin ayarları söylemiş olam. 
 
@@ -1163,7 +1208,7 @@ Burada sizlere visual studio code editöründe kullanıyor olduğum ayarları pa
 
 <br>
 
-### ![](image/extensions.svg) Eklentiler
+### ![](image/extensions.svg) **Eklentiler**
 Burada ise size visual studio code editöründe kullanmış olduğum eklentileri sizler ile paylaşıyor olacağım. Baya eklenti kullanmama rağmen editör çok fazla yavaşlama olmadı. 😄
 
 1. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) : Html etiketini otomatik olarak kapatmaya yarayan bir eklenti.
@@ -1204,7 +1249,7 @@ Burada ise size visual studio code editöründe kullanmış olduğum eklentileri
 
 <br>
 
-## THE END
+## **THE END**
 
 Evet reponun sonuna ulaşmış bulunmaktasınız. Bu repoyu hazırlamam iş yoğunluğuna bağlı olarak yaklaşık bir ayımı aldı diyebilirim. Bu arada bu repoyu hazırlarken tarayıcımda bulunan yer imleri kısmınıda küçükte olsa düzenledim diyebilirim. Önceden it bağlasan durmaz durumdaydı.😂 Umarım yani başlayan tasarımcı ve yazılımcı kardeşlerim için güzel bir repo olmuştur. Birde abone olmayı... yok o değildi.🤣 Aşağıdaki bulunan sosyal medya adreslerimden beni takip ederseniz sevinirim.
 
@@ -1218,7 +1263,7 @@ Evet reponun sonuna ulaşmış bulunmaktasınız. Bu repoyu hazırlamam iş yoğ
 <br>
 <br>
 
-## Uyar Kaldır
+## **Uyar Kaldır**
 
 Uyar – Kaldır sistemi; telif hakkı ile korunan bir içeriğin, herhangi bir internet sitesinde hak sahiplerinden izinsiz olarak yer aldığının tespit edilmesi halinde, eserin hak sahipleri veya yetkili temsilcilerinin, site yetkililerine uyarı göndermek suretiyle haksız içeriğin siteden kaldırılmasını yasal olarak talep etme sürecidir. Bende bu sisteme uyarak eğer repo da sizden izinsiz bir eserinizi kullanmış isem beni uyarabilirsiniz. En geç 3 iş günü içerisinde eseriniz repodan kaldırılır.
 
