@@ -470,6 +470,7 @@ Html web sitesini iskeletidir. Css ile onu süslü gösteren her şeydir. Ben bi
 3. [mehsatek](https://www.mehsatek.com/css-kodlari/)
 4. [magic-of-css](https://adamschwartz.co/magic-of-css/)
 5. [You-need-to-know-css](https://lhammer.cn/You-need-to-know-css/#/)
+6. [css öğren](https://www.scaler.com/topics/css/)
 
 <br>
 
