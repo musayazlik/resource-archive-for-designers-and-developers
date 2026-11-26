@@ -940,6 +940,7 @@ Evet en güzel klasöre geldik bence. Bu klasörde ise işinizi kolaylaştıraca
 39. [glassmorphism](https://glassmorphism.com/)
 40. [getavataaars](https://getavataaars.com/)
 41. [coolbackgrounds](https://coolbackgrounds.io/)
+42. [fontquill](https://fontquill.com/)
 
 <br>
 
